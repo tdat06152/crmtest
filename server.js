@@ -58,8 +58,13 @@ function loadCSV(filename) {
   const tmpPath = path.join('/tmp', filename);
   const localPath = path.join(__dirname, filename);
   const targetPath = (isVercel && fs.existsSync(tmpPath)) ? tmpPath : localPath;
-  const content = fs.readFileSync(targetPath, 'utf-8');
-  return parse(content, { columns: true, skip_empty_lines: true, trim: true });
+  try {
+    const content = fs.readFileSync(targetPath, 'utf-8');
+    return parse(content, { columns: true, skip_empty_lines: true, trim: true });
+  } catch (err) {
+    console.error(`Error loading CSV: ${filename} from ${targetPath}`, err);
+    return [];
+  }
 }
 
 let customers, leads, opportunities, activities, supportTickets;
