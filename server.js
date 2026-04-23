@@ -11,9 +11,11 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // ── Upload setup ──────────────────────────────────────────────────
-const UPLOAD_DIR = path.join(__dirname, 'uploads');
-const BACKUP_DIR = path.join(__dirname, 'backups');
-const HISTORY_FILE = path.join(__dirname, 'upload_history.json');
+const isVercel = process.env.VERCEL === '1' || process.env.VERCEL_ENV;
+const UPLOAD_DIR = isVercel ? '/tmp/uploads' : path.join(__dirname, 'uploads');
+const BACKUP_DIR = isVercel ? '/tmp/backups' : path.join(__dirname, 'backups');
+const HISTORY_FILE = isVercel ? '/tmp/upload_history.json' : path.join(__dirname, 'upload_history.json');
+
 if (!fs.existsSync(UPLOAD_DIR)) fs.mkdirSync(UPLOAD_DIR, { recursive: true });
 if (!fs.existsSync(BACKUP_DIR)) fs.mkdirSync(BACKUP_DIR, { recursive: true });
 
@@ -37,19 +39,26 @@ const upload = multer({
 });
 
 function loadUploadHistory() {
-  if (fs.existsSync(HISTORY_FILE)) {
-    return JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf-8'));
-  }
+  try {
+    if (fs.existsSync(HISTORY_FILE)) {
+      return JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf-8'));
+    }
+  } catch(e) {}
   return [];
 }
 
 function saveUploadHistory(history) {
-  fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2));
+  try {
+    fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2));
+  } catch(e) {}
 }
 
 // ── Load CSV data ──────────────────────────────────────────────────
 function loadCSV(filename) {
-  const content = fs.readFileSync(path.join(__dirname, filename), 'utf-8');
+  const tmpPath = path.join('/tmp', filename);
+  const localPath = path.join(__dirname, filename);
+  const targetPath = (isVercel && fs.existsSync(tmpPath)) ? tmpPath : localPath;
+  const content = fs.readFileSync(targetPath, 'utf-8');
   return parse(content, { columns: true, skip_empty_lines: true, trim: true });
 }
 
@@ -455,10 +464,17 @@ app.post('/api/upload', upload.array('files', 10), (req, res) => {
       }
 
       // Backup old file
-      const destPath = path.join(__dirname, originalName);
+      const defaultDest = path.join(__dirname, originalName);
+      const tmpDest = path.join('/tmp', originalName);
+      const destPath = isVercel ? tmpDest : defaultDest;
+
       if (fs.existsSync(destPath)) {
         const backupName = `${path.basename(originalName, '.csv')}_${timestamp.replace(/[:.]/g, '-')}.csv`;
         fs.copyFileSync(destPath, path.join(BACKUP_DIR, backupName));
+      } else if (isVercel && fs.existsSync(defaultDest)) {
+        // First upload on Vercel: backup the default bundled file
+        const backupName = `${path.basename(originalName, '.csv')}_${timestamp.replace(/[:.]/g, '-')}.csv`;
+        fs.copyFileSync(defaultDest, path.join(BACKUP_DIR, backupName));
       }
 
       // Overwrite with new file
@@ -532,7 +548,11 @@ app.use((err, req, res, next) => {
 });
 
 // ── Start server ──────────────────────────────────────────────────
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`🚀 CRM Dashboard API running on http://localhost:${PORT}`);
-});
+if (!isVercel) {
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => {
+    console.log(`🚀 CRM Dashboard API running on http://localhost:${PORT}`);
+  });
+}
+
+module.exports = app;
