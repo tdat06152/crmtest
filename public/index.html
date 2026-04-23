@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="CRM Dashboard - Professional business analytics, reporting, pipeline management, and operational insights">
+  <title>CRM Analytics Dashboard</title>
+  <link rel="stylesheet" href="/index.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+  <div class="dashboard-container" id="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-title">
+        <div class="logo">CX</div>
+        <div>
+          <h1>CRM <span>Analytics</span> Dashboard</h1>
+          <div class="header-subtitle">Real-time business intelligence across 6 data sources</div>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <div class="pulse"></div>
+        <span style="font-size:12px;color:var(--text-muted);">Live Data</span>
+      </div>
+    </header>
+
+    <!-- Filters -->
+    <div class="filters-bar" id="filters-bar">
+      <div class="filter-group">
+        <label>From Date</label>
+        <input type="date" id="filter-from" value="2024-01-01">
+      </div>
+      <div class="filter-group">
+        <label>To Date</label>
+        <input type="date" id="filter-to" value="2026-12-31">
+      </div>
+      <div class="filter-group">
+        <label>Country</label>
+        <select id="filter-country"><option value="">All Countries</option></select>
+      </div>
+      <div class="filter-group">
+        <label>Industry</label>
+        <select id="filter-industry"><option value="">All Industries</option></select>
+      </div>
+      <div class="filter-group">
+        <label>Owner</label>
+        <select id="filter-owner"><option value="">All Owners</option></select>
+      </div>
+      <button class="btn-apply" id="btn-apply" onclick="loadAll()">Apply Filters</button>
+      <button class="btn-reset" onclick="resetFilters()">Reset</button>
+    </div>
+
+    <!-- Tabs -->
+    <div class="tabs-container" id="tabs">
+      <button class="tab-btn active" data-tab="business" onclick="switchTab('business', this)">📊 Business Analysis</button>
+      <button class="tab-btn" data-tab="reporting" onclick="switchTab('reporting', this)">📋 Reporting</button>
+      <button class="tab-btn" data-tab="analytics" onclick="switchTab('analytics', this)">🔬 Analytics</button>
+      <button class="tab-btn" data-tab="product-owner" onclick="switchTab('product-owner', this)">🎯 Product Owner</button>
+      <button class="tab-btn" data-tab="product-design" onclick="switchTab('product-design', this)">🎨 Product Design</button>
+      <button class="tab-btn" data-tab="rnd" onclick="switchTab('rnd', this)">🔬 R&D</button>
+      <button class="tab-btn" data-tab="project-mgmt" onclick="switchTab('project-mgmt', this)">📅 Project Mgmt</button>
+      <button class="tab-btn" data-tab="cto" onclick="switchTab('cto', this)">⚙️ CTO</button>
+      <button class="tab-btn" data-tab="qc" onclick="switchTab('qc', this)">✅ QC</button>
+      <button class="tab-btn" data-tab="operations" onclick="switchTab('operations', this)">🚛 Operations</button>
+      <button class="tab-btn tab-btn-upload" data-tab="upload" onclick="switchTab('upload', this)">📤 Data Upload</button>
+    </div>
+
+    <!-- Tab Panels -->
+    <div class="tab-content active" id="tab-business"></div>
+    <div class="tab-content" id="tab-reporting"></div>
+    <div class="tab-content" id="tab-analytics"></div>
+    <div class="tab-content" id="tab-product-owner"></div>
+    <div class="tab-content" id="tab-product-design"></div>
+    <div class="tab-content" id="tab-rnd"></div>
+    <div class="tab-content" id="tab-project-mgmt"></div>
+    <div class="tab-content" id="tab-cto"></div>
+    <div class="tab-content" id="tab-qc"></div>
+    <div class="tab-content" id="tab-operations"></div>
+    <div class="tab-content" id="tab-upload"></div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

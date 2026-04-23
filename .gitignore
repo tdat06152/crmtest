@@ -1,0 +1,5 @@
+node_modules/
+backups/
+uploads/
+upload_history.json
+.DS_Store

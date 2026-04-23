@@ -1,0 +1,321 @@
+customer_id,company_name,primary_contact,email,industry,company_size,country,city,acquisition_channel,account_owner,created_date,lifecycle_stage,plan,health_score,mrr_usd,arr_usd,last_activity_date,churn_risk
+CUST-0001,Hyper Partners 001,Chau Pham,chaupham@hyperpartners001.com,Retail,SMB,Singapore,Singapore,Referral,Chi Le,2025-10-16,Customer,Starter,79,127.32,1527.84,2025-10-23,Low
+CUST-0002,Lotus Media 002,Ha Do,hado@lotusmedia002.com,SaaS,Mid-Market,Indonesia,Jakarta,Email,Khanh Do,2025-09-08,Customer,Growth,72,623.13,7477.56,2025-09-09,Low
+CUST-0003,Prime Foods 003,Quang Tran,quangtran@primefoods003.com,Education,Enterprise,Singapore,Singapore,Referral,Khanh Do,2024-06-08,Customer,Starter,70,334.74,4016.88,2025-08-24,Medium
+CUST-0004,Hyper Logistics 004,Khanh Tran,khanhtran@hyperlogistics004.com,Healthcare,Mid-Market,Malaysia,Kuala Lumpur,Email,Huy Vo,2025-07-19,Customer,Enterprise,83,3456.73,41480.76,2025-11-12,Low
+CUST-0005,Hyper Education 005,Ha Vo,havo@hypereducation005.com,Healthcare,SMB,Philippines,Manila,Paid Ads,Huy Vo,2025-01-24,Customer,Growth,72,410.91,4930.92,2025-12-01,Low
+CUST-0006,Insight Foods 006,Lam Do,lamdo@insightfoods006.com,Logistics,SMB,Indonesia,Jakarta,Paid Ads,Dung Pham,2025-04-18,At Risk,Pro,64,790.17,9482.04,2025-05-04,High
+CUST-0007,Viet Cloud 007,Quang Hoang,quanghoang@vietcloud007.com,E-commerce,Enterprise,Singapore,Singapore,Partner,Linh Vu,2024-08-04,At Risk,Starter,44,373.75,4485.0,2025-10-15,High
+CUST-0008,Core Group 008,Minh Dang,minhdang@coregroup008.com,Logistics,SMB,Vietnam,Ho Chi Minh City,Website,Binh Tran,2025-08-20,At Risk,Growth,44,407.3,4887.6,2026-03-10,High
+CUST-0009,Future Commerce 009,Khanh Do,khanhdo@futurecommerce009.com,E-commerce,Enterprise,Malaysia,Kuala Lumpur,Referral,An Nguyen,2025-01-25,Customer,Starter,66,449.46,5393.52,2025-03-23,Medium
+CUST-0010,Urban Partners 010,Lan Le,lanle@urbanpartners010.com,Healthcare,Enterprise,Philippines,Manila,Webinar,Binh Tran,2024-01-04,At Risk,Starter,56,443.32,5319.84,2025-03-20,High
+CUST-0011,Urban Retail 011,Ngoc Tran,ngoctran@urbanretail011.com,E-commerce,SMB,Vietnam,Hanoi,Webinar,Huy Vo,2024-01-01,Customer,Starter,76,106.73,1280.76,2026-01-10,Low
+CUST-0012,Nova Commerce 012,Khanh Do,khanhdo@novacommerce012.com,Hospitality,Enterprise,Vietnam,Ho Chi Minh City,Email,Khanh Do,2024-05-11,At Risk,Starter,64,466.55,5598.6,2025-04-13,High
+CUST-0013,Core Partners 013,Bao Vu,baovu@corepartners013.com,Hospitality,SMB,Vietnam,Ho Chi Minh City,Email,An Nguyen,2025-06-13,Customer,Starter,94,105.53,1266.36,2025-07-17,Low
+CUST-0014,Nova Cloud 014,Duc Do,ducdo@novacloud014.com,Healthcare,Mid-Market,Vietnam,Ho Chi Minh City,Email,Linh Vu,2024-08-31,At Risk,Growth,65,663.72,7964.64,2025-02-18,High
+CUST-0015,Eco Cloud 015,Quang Bui,quangbui@ecocloud015.com,Hospitality,Enterprise,Vietnam,Hanoi,Website,Binh Tran,2025-02-24,Customer,Pro,63,2806.07,33672.84,2025-06-01,Medium
+CUST-0016,Hyper Education 016,Anh Tran,anhtran@hypereducation016.com,Healthcare,SMB,Philippines,Manila,Referral,Linh Vu,2024-07-06,Customer,Enterprise,96,2969.21,35630.52,2026-03-05,Low
+CUST-0017,Urban Studio 017,Khanh Do,khanhdo@urbanstudio017.com,Hospitality,SMB,Philippines,Manila,LinkedIn,An Nguyen,2025-02-20,Customer,Growth,85,434.71,5216.52,2025-10-10,Low
+CUST-0018,Bright Partners 018,Phuc Le,phucle@brightpartners018.com,Education,SMB,Vietnam,Hanoi,Paid Ads,An Nguyen,2024-06-07,Customer,Growth,75,399.73,4796.76,2025-09-15,Low
+CUST-0019,Viet Partners 019,Chau Do,chaudo@vietpartners019.com,Manufacturing,SMB,Vietnam,Hanoi,Partner,Dung Pham,2024-03-23,Customer,Pro,82,1032.53,12390.36,2025-11-14,Low
+CUST-0020,Alpha Commerce 020,Lam Tran,lamtran@alphacommerce020.com,Healthcare,SMB,Indonesia,Jakarta,Partner,Giang Ho,2024-11-19,Customer,Starter,70,140.73,1688.76,2025-08-23,Medium
+CUST-0021,Zen Partners 021,Quang Hoang,quanghoang@zenpartners021.com,E-commerce,Enterprise,Vietnam,Hanoi,LinkedIn,Giang Ho,2025-09-28,Churned,Growth,31,1111.59,13339.08,2026-01-18,High
+CUST-0022,Jade Health 022,Giang Hoang,gianghoang@jadehealth022.com,Real Estate,SMB,Indonesia,Jakarta,Webinar,Chi Le,2024-01-09,Customer,Starter,59,108.42,1301.04,2025-10-11,Medium
+CUST-0023,Eco Media 023,Anh Vu,anhvu@ecomedia023.com,Education,Mid-Market,Philippines,Manila,Webinar,Linh Vu,2024-12-17,At Risk,Starter,53,273.17,3278.04,2025-01-23,High
+CUST-0024,Viet Holdings 024,Bao Vu,baovu@vietholdings024.com,Hospitality,Mid-Market,Thailand,Bangkok,Referral,Binh Tran,2024-06-14,Churned,Growth,42,820.24,9842.88,2025-10-07,High
+CUST-0025,Eco Capital 025,Minh Dang,minhdang@ecocapital025.com,Logistics,SMB,Singapore,Singapore,Paid Ads,An Nguyen,2024-05-31,Customer,Growth,76,434.02,5208.24,2026-03-29,Low
+CUST-0026,Prime Solutions 026,Ha Tran,hatran@primesolutions026.com,Manufacturing,Enterprise,Vietnam,Hanoi,Partner,Huy Vo,2024-06-15,At Risk,Starter,63,482.06,5784.72,2025-05-17,High
+CUST-0027,Prime Holdings 027,Lan Vo,lanvo@primeholdings027.com,Education,SMB,Thailand,Bangkok,Email,Dung Pham,2025-04-26,Customer,Starter,79,153.86,1846.32,2025-09-15,Low
+CUST-0028,Zen Partners 028,Lam Do,lamdo@zenpartners028.com,SaaS,SMB,Singapore,Singapore,Website,Giang Ho,2024-12-05,Customer,Starter,86,128.07,1536.84,2026-01-09,Low
+CUST-0029,Quantum Foods 029,Hanh Vu,hanhvu@quantumfoods029.com,Logistics,Enterprise,Vietnam,Ho Chi Minh City,Website,Khanh Do,2024-04-28,Customer,Starter,82,506.93,6083.16,2026-01-13,Low
+CUST-0030,Global Cloud 030,Quang Le,quangle@globalcloud030.com,Finance,Mid-Market,Indonesia,Jakarta,Webinar,Giang Ho,2025-11-11,Customer,Pro,58,1641.21,19694.52,2026-01-25,Medium
+CUST-0031,Rapid Commerce 031,Vy Vu,vyvu@rapidcommerce031.com,Logistics,Mid-Market,Vietnam,Ho Chi Minh City,Partner,Giang Ho,2025-11-11,Customer,Growth,85,670.91,8050.92,2026-04-08,Low
+CUST-0032,Hyper Works 032,Lam Tran,lamtran@hyperworks032.com,Education,Mid-Market,Philippines,Manila,Referral,Chi Le,2025-03-28,Customer,Enterprise,76,4680.43,56165.16,2026-02-08,Low
+CUST-0033,Hyper Retail 033,Ngoc Do,ngocdo@hyperretail033.com,Education,SMB,Vietnam,Hanoi,Referral,Linh Vu,2024-08-18,Customer,Starter,87,145.1,1741.2,2025-07-16,Low
+CUST-0034,Urban Capital 034,Nam Nguyen,namnguyen@urbancapital034.com,SaaS,Enterprise,Philippines,Manila,Partner,Binh Tran,2025-11-02,Customer,Pro,65,3605.92,43271.04,2026-03-14,Medium
+CUST-0035,Smart Commerce 035,Nam Le,namle@smartcommerce035.com,Hospitality,SMB,Thailand,Bangkok,Event,Huy Vo,2024-05-04,Customer,Pro,73,1138.76,13665.12,2025-10-08,Low
+CUST-0036,Lotus Labs 036,Hoa Hoang,hoahoang@lotuslabs036.com,Education,Mid-Market,Singapore,Singapore,Email,Linh Vu,2024-09-22,Customer,Pro,62,1439.76,17277.12,2025-05-27,Medium
+CUST-0037,Viet Tech 037,Minh Do,minhdo@viettech037.com,Retail,SMB,Vietnam,Ho Chi Minh City,Email,Chi Le,2025-07-07,Customer,Growth,63,370.26,4443.12,2025-10-20,Medium
+CUST-0038,Smart Capital 038,Vy Pham,vypham@smartcapital038.com,Logistics,SMB,Singapore,Singapore,Partner,Khanh Do,2025-08-12,Customer,Starter,84,146.08,1752.96,2026-03-04,Low
+CUST-0039,Alpha Foods 039,Trang Dang,trangdang@alphafoods039.com,Logistics,SMB,Thailand,Bangkok,LinkedIn,Khanh Do,2024-10-06,At Risk,Starter,57,103.62,1243.44,2025-07-21,High
+CUST-0040,Quantum Media 040,Linh Hoang,linhhoang@quantummedia040.com,Logistics,SMB,Thailand,Bangkok,Partner,Giang Ho,2025-10-20,Customer,Starter,59,129.28,1551.36,2026-01-14,Medium
+CUST-0041,Zen Retail 041,Hanh Nguyen,hanhnguyen@zenretail041.com,Hospitality,SMB,Malaysia,Kuala Lumpur,Email,Huy Vo,2024-03-24,Customer,Starter,79,147.25,1767.0,2025-05-07,Low
+CUST-0042,Delta Education 042,Vy Dang,vydang@deltaeducation042.com,Manufacturing,SMB,Vietnam,Hanoi,Event,Dung Pham,2024-09-01,Customer,Growth,58,431.71,5180.52,2025-03-27,Medium
+CUST-0043,Delta Solutions 043,Khanh Dang,khanhdang@deltasolutions043.com,Retail,Mid-Market,Singapore,Singapore,Partner,Khanh Do,2024-11-14,Churned,Growth,46,733.08,8796.96,2025-02-22,High
+CUST-0044,Quantum Education 044,Nam Le,namle@quantumeducation044.com,Real Estate,SMB,Singapore,Singapore,Website,Huy Vo,2024-12-21,At Risk,Starter,55,108.33,1299.96,2025-07-05,High
+CUST-0045,Hyper Commerce 045,Hung Bui,hungbui@hypercommerce045.com,Healthcare,Mid-Market,Malaysia,Kuala Lumpur,Partner,Linh Vu,2025-06-18,At Risk,Pro,47,2049.89,24598.68,2025-08-01,High
+CUST-0046,Zen Media 046,Lam Hoang,lamhoang@zenmedia046.com,E-commerce,Mid-Market,Singapore,Singapore,LinkedIn,Huy Vo,2025-08-06,Customer,Starter,70,221.92,2663.04,2025-10-11,Medium
+CUST-0047,Jade Capital 047,Anh Tran,anhtran@jadecapital047.com,SaaS,Mid-Market,Vietnam,Ho Chi Minh City,Event,Khanh Do,2025-07-23,Customer,Starter,76,260.48,3125.76,2026-03-09,Low
+CUST-0048,Jade Media 048,Nam Hoang,namhoang@jademedia048.com,Education,SMB,Malaysia,Kuala Lumpur,Partner,Huy Vo,2025-02-18,Churned,Growth,37,355.39,4264.68,2026-02-12,High
+CUST-0049,Delta Health 049,Vy Hoang,vyhoang@deltahealth049.com,Retail,Mid-Market,Singapore,Singapore,Email,Chi Le,2024-08-24,Customer,Starter,56,289.07,3468.84,2025-09-26,Medium
+CUST-0050,Delta Tech 050,Giang Bui,giangbui@deltatech050.com,Education,SMB,Singapore,Singapore,Webinar,Chi Le,2024-10-30,Customer,Starter,77,105.27,1263.24,2025-05-30,Low
+CUST-0051,Eco Works 051,Bao Le,baole@ecoworks051.com,Healthcare,SMB,Thailand,Bangkok,Webinar,An Nguyen,2025-08-10,Churned,Starter,32,131.5,1578.0,2026-01-04,High
+CUST-0052,Jade Solutions 052,Trang Do,trangdo@jadesolutions052.com,Education,SMB,Philippines,Manila,Partner,Dung Pham,2024-03-28,Customer,Growth,79,374.98,4499.76,2026-03-17,Low
+CUST-0053,Jade Solutions 053,Vy Bui,vybui@jadesolutions053.com,Retail,Enterprise,Vietnam,Ho Chi Minh City,Referral,Giang Ho,2025-09-16,Customer,Growth,78,953.5,11442.0,2026-01-09,Low
+CUST-0054,Delta Holdings 054,Hanh Do,hanhdo@deltaholdings054.com,Healthcare,Mid-Market,Indonesia,Jakarta,Email,Binh Tran,2024-08-25,At Risk,Enterprise,65,4932.67,59192.04,2025-10-29,High
+CUST-0055,Insight Partners 055,Khanh Do,khanhdo@insightpartners055.com,Manufacturing,Enterprise,Philippines,Manila,LinkedIn,An Nguyen,2024-08-18,At Risk,Starter,49,410.72,4928.64,2025-08-28,High
+CUST-0056,Alpha Media 056,Trang Dang,trangdang@alphamedia056.com,Hospitality,SMB,Malaysia,Kuala Lumpur,Paid Ads,Khanh Do,2025-07-06,Customer,Starter,63,103.55,1242.6,2025-10-31,Medium
+CUST-0057,Quantum Labs 057,Ngoc Vu,ngocvu@quantumlabs057.com,SaaS,Mid-Market,Vietnam,Ho Chi Minh City,Webinar,Linh Vu,2025-08-13,Customer,Growth,61,690.39,8284.68,2025-09-05,Medium
+CUST-0058,Rapid Foods 058,Quang Nguyen,quangnguyen@rapidfoods058.com,Retail,Enterprise,Singapore,Singapore,Webinar,Linh Vu,2024-11-24,Customer,Growth,67,1176.25,14115.0,2026-01-25,Medium
+CUST-0059,Global Media 059,Nam Nguyen,namnguyen@globalmedia059.com,Healthcare,SMB,Philippines,Manila,Event,An Nguyen,2024-11-18,Customer,Growth,80,429.88,5158.56,2025-11-17,Low
+CUST-0060,Urban Tech 060,Ha Hoang,hahoang@urbantech060.com,Manufacturing,Enterprise,Thailand,Bangkok,Referral,Linh Vu,2025-07-16,Customer,Enterprise,86,8201.68,98420.16,2025-11-15,Low
+CUST-0061,Smart Capital 061,Minh Bui,minhbui@smartcapital061.com,Logistics,SMB,Philippines,Manila,Referral,Linh Vu,2025-07-19,Customer,Enterprise,91,2191.05,26292.6,2025-12-05,Low
+CUST-0062,Insight Tech 062,Lam Vo,lamvo@insighttech062.com,Real Estate,SMB,Vietnam,Ho Chi Minh City,Referral,Chi Le,2025-04-12,Customer,Enterprise,98,2739.01,32868.12,2025-11-10,Low
+CUST-0063,Global Capital 063,Nam Vu,namvu@globalcapital063.com,Healthcare,Mid-Market,Malaysia,Kuala Lumpur,LinkedIn,Linh Vu,2024-10-16,Customer,Enterprise,65,4876.49,58517.88,2025-07-13,Medium
+CUST-0064,Bright Retail 064,Giang Bui,giangbui@brightretail064.com,Logistics,SMB,Philippines,Manila,Event,Huy Vo,2025-08-08,Customer,Growth,77,439.5,5274.0,2025-11-14,Low
+CUST-0065,Insight Labs 065,Chau Bui,chaubui@insightlabs065.com,E-commerce,SMB,Vietnam,Hanoi,Referral,Linh Vu,2025-05-29,Customer,Enterprise,57,2320.98,27851.76,2025-08-16,Medium
+CUST-0066,Zen Foods 066,Quang Nguyen,quangnguyen@zenfoods066.com,Logistics,Mid-Market,Philippines,Manila,Paid Ads,Khanh Do,2025-09-30,Customer,Starter,81,279.44,3353.28,2026-02-01,Low
+CUST-0067,Nova Systems 067,Bao Hoang,baohoang@novasystems067.com,Healthcare,Enterprise,Indonesia,Jakarta,Referral,Binh Tran,2024-08-28,Customer,Starter,67,335.23,4022.76,2026-02-12,Medium
+CUST-0068,Smart Retail 068,Vy Pham,vypham@smartretail068.com,Manufacturing,SMB,Thailand,Bangkok,LinkedIn,Chi Le,2025-03-17,Customer,Growth,51,404.16,4849.92,2025-09-28,High
+CUST-0069,Insight Commerce 069,Khanh Do,khanhdo@insightcommerce069.com,Hospitality,Mid-Market,Thailand,Bangkok,Event,An Nguyen,2024-08-25,At Risk,Starter,54,285.69,3428.28,2025-10-28,High
+CUST-0070,Prime Media 070,Khanh Nguyen,khanhnguyen@primemedia070.com,Education,Enterprise,Philippines,Manila,Partner,Dung Pham,2024-11-05,Customer,Growth,69,1273.89,15286.68,2025-12-25,Medium
+CUST-0071,Zen Media 071,Hoa Pham,hoapham@zenmedia071.com,E-commerce,Enterprise,Philippines,Manila,Event,An Nguyen,2024-01-09,At Risk,Pro,47,3322.17,39866.04,2025-06-30,High
+CUST-0072,Lotus Cloud 072,Chau Hoang,chauhoang@lotuscloud072.com,Manufacturing,Mid-Market,Indonesia,Jakarta,Event,Giang Ho,2025-11-25,Customer,Growth,64,650.43,7805.16,2025-12-28,Medium
+CUST-0073,Rapid Foods 073,Lam Tran,lamtran@rapidfoods073.com,Education,SMB,Malaysia,Kuala Lumpur,Webinar,Huy Vo,2024-06-28,At Risk,Enterprise,55,2934.12,35209.44,2025-06-01,High
+CUST-0074,Rapid Systems 074,Quang Tran,quangtran@rapidsystems074.com,Education,Enterprise,Indonesia,Jakarta,Paid Ads,Khanh Do,2024-05-24,Customer,Pro,98,3016.19,36194.28,2025-05-16,Low
+CUST-0075,Core Commerce 075,Vy Pham,vypham@corecommerce075.com,Healthcare,Mid-Market,Philippines,Manila,Referral,Huy Vo,2025-11-19,Customer,Growth,59,832.6,9991.2,2026-02-10,Medium
+CUST-0076,Prime Commerce 076,Quang Le,quangle@primecommerce076.com,Healthcare,Mid-Market,Vietnam,Hanoi,Webinar,An Nguyen,2025-12-18,Churned,Starter,23,194.1,2329.2,2026-04-10,High
+CUST-0077,Rapid Capital 077,Hanh Bui,hanhbui@rapidcapital077.com,Real Estate,SMB,Indonesia,Jakarta,Referral,Khanh Do,2025-01-14,At Risk,Pro,48,779.72,9356.64,2025-07-22,High
+CUST-0078,Global Tech 078,Nam Tran,namtran@globaltech078.com,Retail,Enterprise,Singapore,Singapore,Website,Huy Vo,2025-01-06,Customer,Growth,57,1058.29,12699.48,2025-03-09,Medium
+CUST-0079,Insight Retail 079,Vy Nguyen,vynguyen@insightretail079.com,Finance,SMB,Vietnam,Ho Chi Minh City,Referral,Dung Pham,2024-02-21,At Risk,Pro,47,912.85,10954.2,2025-03-17,High
+CUST-0080,Alpha Education 080,Trang Vu,trangvu@alphaeducation080.com,Real Estate,SMB,Vietnam,Ho Chi Minh City,LinkedIn,An Nguyen,2024-05-13,Customer,Starter,70,149.4,1792.8,2025-05-02,Medium
+CUST-0081,Titan Works 081,Vy Nguyen,vynguyen@titanworks081.com,SaaS,SMB,Thailand,Bangkok,Event,Binh Tran,2024-09-28,Customer,Growth,65,376.6,4519.2,2025-04-24,Medium
+CUST-0082,Zen Retail 082,Chau Vu,chauvu@zenretail082.com,SaaS,SMB,Thailand,Bangkok,Referral,Khanh Do,2025-04-14,Customer,Pro,88,1174.37,14092.44,2025-05-21,Low
+CUST-0083,Global Cloud 083,Duc Vo,ducvo@globalcloud083.com,Manufacturing,SMB,Indonesia,Jakarta,Partner,Huy Vo,2024-03-08,Churned,Growth,39,372.78,4473.36,2026-02-11,High
+CUST-0084,Smart Foods 084,Lan Le,lanle@smartfoods084.com,Education,SMB,Philippines,Manila,Referral,Khanh Do,2025-04-07,Customer,Growth,73,352.19,4226.28,2025-08-15,Low
+CUST-0085,Quantum Solutions 085,Minh Vu,minhvu@quantumsolutions085.com,Retail,SMB,Vietnam,Hanoi,LinkedIn,Huy Vo,2024-04-03,Customer,Pro,62,913.34,10960.08,2025-03-04,Medium
+CUST-0086,Nova Logistics 086,Lan Vo,lanvo@novalogistics086.com,E-commerce,SMB,Vietnam,Hanoi,LinkedIn,Dung Pham,2024-10-21,Customer,Growth,68,336.74,4040.88,2025-02-25,Medium
+CUST-0087,Eco Group 087,Anh Le,anhle@ecogroup087.com,E-commerce,SMB,Thailand,Bangkok,Webinar,An Nguyen,2024-10-12,Customer,Pro,73,1179.69,14156.28,2025-06-29,Low
+CUST-0088,Viet Foods 088,Khanh Vu,khanhvu@vietfoods088.com,Manufacturing,Mid-Market,Vietnam,Hanoi,Partner,Dung Pham,2024-03-12,Customer,Starter,96,220.42,2645.04,2025-07-09,Low
+CUST-0089,Nova Cloud 089,Phuc Tran,phuctran@novacloud089.com,Manufacturing,SMB,Malaysia,Kuala Lumpur,Webinar,Binh Tran,2024-02-23,Customer,Starter,61,126.85,1522.2,2025-04-21,Medium
+CUST-0090,Jade Health 090,Anh Pham,anhpham@jadehealth090.com,Healthcare,Mid-Market,Malaysia,Kuala Lumpur,Website,Giang Ho,2024-04-23,Customer,Growth,83,845.6,10147.2,2025-01-29,Low
+CUST-0091,Prime Solutions 091,Lan Tran,lantran@primesolutions091.com,Healthcare,SMB,Vietnam,Hanoi,LinkedIn,Khanh Do,2024-05-20,Customer,Starter,67,135.52,1626.24,2025-12-09,Medium
+CUST-0092,Lotus Education 092,Linh Nguyen,linhnguyen@lotuseducation092.com,SaaS,SMB,Vietnam,Hanoi,Partner,Khanh Do,2025-03-22,Customer,Enterprise,74,2329.46,27953.52,2025-05-19,Low
+CUST-0093,Lotus Education 093,Lam Pham,lampham@lotuseducation093.com,Hospitality,Mid-Market,Singapore,Singapore,Email,Binh Tran,2025-09-24,Customer,Starter,72,277.62,3331.44,2026-04-02,Low
+CUST-0094,Delta Retail 094,Giang Pham,giangpham@deltaretail094.com,Real Estate,Mid-Market,Malaysia,Kuala Lumpur,Paid Ads,Huy Vo,2024-03-19,Customer,Growth,78,793.47,9521.64,2026-02-22,Low
+CUST-0095,Lotus Labs 095,Trang Dang,trangdang@lotuslabs095.com,Education,SMB,Vietnam,Ho Chi Minh City,LinkedIn,Binh Tran,2024-09-19,Churned,Pro,38,1106.94,13283.28,2025-08-18,High
+CUST-0096,Bright Systems 096,Nam Nguyen,namnguyen@brightsystems096.com,Hospitality,SMB,Thailand,Bangkok,Website,Giang Ho,2024-06-03,Customer,Growth,66,310.48,3725.76,2025-08-25,Medium
+CUST-0097,Lotus Studio 097,Trang Pham,trangpham@lotusstudio097.com,Retail,Mid-Market,Philippines,Manila,Event,Khanh Do,2024-10-20,Customer,Starter,94,188.03,2256.36,2026-04-11,Low
+CUST-0098,Titan Partners 098,Nam Bui,nambui@titanpartners098.com,Manufacturing,Enterprise,Thailand,Bangkok,Referral,Huy Vo,2025-05-28,Customer,Starter,70,359.53,4314.36,2025-10-01,Medium
+CUST-0099,Zen Retail 099,Khanh Hoang,khanhhoang@zenretail099.com,Manufacturing,SMB,Singapore,Singapore,Website,Huy Vo,2025-09-16,At Risk,Growth,43,395.14,4741.68,2025-12-23,High
+CUST-0100,Prime Labs 100,Khanh Vo,khanhvo@primelabs100.com,Retail,Mid-Market,Vietnam,Ho Chi Minh City,Partner,Giang Ho,2024-12-07,Customer,Enterprise,72,4769.49,57233.88,2025-02-13,Low
+CUST-0101,Eco Retail 101,Hanh Pham,hanhpham@ecoretail101.com,Real Estate,SMB,Indonesia,Jakarta,Website,Huy Vo,2024-05-10,Customer,Growth,79,463.34,5560.08,2025-09-06,Low
+CUST-0102,Future Education 102,Giang Le,giangle@futureeducation102.com,Healthcare,Mid-Market,Vietnam,Hanoi,Paid Ads,An Nguyen,2024-03-20,At Risk,Growth,59,576.78,6921.36,2025-07-12,High
+CUST-0103,Viet Commerce 103,Hanh Vu,hanhvu@vietcommerce103.com,SaaS,SMB,Indonesia,Jakarta,Webinar,Linh Vu,2025-03-24,Customer,Pro,77,872.63,10471.56,2025-11-19,Low
+CUST-0104,Urban Logistics 104,Ngoc Vu,ngocvu@urbanlogistics104.com,Healthcare,Mid-Market,Malaysia,Kuala Lumpur,Email,Chi Le,2025-04-17,At Risk,Growth,44,810.5,9726.0,2025-05-13,High
+CUST-0105,Alpha Cloud 105,Nam Vu,namvu@alphacloud105.com,Real Estate,Enterprise,Singapore,Singapore,Webinar,Chi Le,2025-12-29,Customer,Starter,53,344.01,4128.12,2026-01-26,High
+CUST-0106,Eco Solutions 106,Lam Le,lamle@ecosolutions106.com,Logistics,Mid-Market,Vietnam,Ho Chi Minh City,Paid Ads,Binh Tran,2024-02-24,Customer,Growth,74,635.89,7630.68,2025-02-20,Low
+CUST-0107,Titan Cloud 107,Quang Dang,quangdang@titancloud107.com,Hospitality,Mid-Market,Vietnam,Ho Chi Minh City,Event,Linh Vu,2024-10-20,Customer,Pro,77,1551.68,18620.16,2025-03-18,Low
+CUST-0108,Alpha Partners 108,Vy Vo,vyvo@alphapartners108.com,Healthcare,SMB,Vietnam,Hanoi,Event,Khanh Do,2024-04-23,Customer,Starter,74,152.2,1826.4,2025-09-13,Low
+CUST-0109,Urban Partners 109,Chau Vo,chauvo@urbanpartners109.com,Education,Mid-Market,Singapore,Singapore,Email,Huy Vo,2025-08-11,Customer,Growth,82,700.4,8404.8,2025-11-11,Low
+CUST-0110,Delta Labs 110,Lan Pham,lanpham@deltalabs110.com,Real Estate,SMB,Philippines,Manila,Paid Ads,Khanh Do,2025-06-03,Customer,Growth,92,300.34,3604.08,2025-07-07,Low
+CUST-0111,Jade Health 111,Nam Nguyen,namnguyen@jadehealth111.com,SaaS,SMB,Singapore,Singapore,Event,Chi Le,2024-05-16,Churned,Pro,24,793.4,9520.8,2026-02-02,High
+CUST-0112,Bright Labs 112,Khanh Vu,khanhvu@brightlabs112.com,Education,Enterprise,Singapore,Singapore,Event,Khanh Do,2024-02-14,Customer,Enterprise,77,8635.58,103626.96,2025-04-08,Low
+CUST-0113,Core Cloud 113,Phuc Hoang,phuchoang@corecloud113.com,Retail,Mid-Market,Thailand,Bangkok,Partner,Linh Vu,2024-10-06,Customer,Enterprise,83,4093.35,49120.2,2026-02-13,Low
+CUST-0114,Zen Cloud 114,Khanh Bui,khanhbui@zencloud114.com,Logistics,Mid-Market,Philippines,Manila,Paid Ads,Giang Ho,2024-03-21,Customer,Starter,92,219.02,2628.24,2025-06-01,Low
+CUST-0115,Titan Education 115,Linh Vu,linhvu@titaneducation115.com,Hospitality,SMB,Vietnam,Hanoi,Partner,Huy Vo,2024-06-19,Customer,Pro,98,798.77,9585.24,2025-11-23,Low
+CUST-0116,Viet Solutions 116,Lan Do,lando@vietsolutions116.com,Manufacturing,Mid-Market,Indonesia,Jakarta,LinkedIn,An Nguyen,2024-02-01,Customer,Pro,72,2007.6,24091.2,2025-07-07,Low
+CUST-0117,Smart Partners 117,Anh Le,anhle@smartpartners117.com,Manufacturing,Mid-Market,Singapore,Singapore,LinkedIn,Binh Tran,2025-09-11,Customer,Growth,62,614.13,7369.56,2025-10-10,Medium
+CUST-0118,Eco Foods 118,Hanh Tran,hanhtran@ecofoods118.com,Real Estate,SMB,Philippines,Manila,Email,Linh Vu,2025-01-31,Churned,Starter,29,143.64,1723.68,2025-10-09,High
+CUST-0119,Titan Capital 119,Ha Vu,havu@titancapital119.com,Manufacturing,Enterprise,Thailand,Bangkok,Paid Ads,Huy Vo,2025-04-07,Customer,Enterprise,66,7039.85,84478.2,2025-06-26,Medium
+CUST-0120,Zen Foods 120,Quang Le,quangle@zenfoods120.com,Education,Mid-Market,Vietnam,Ho Chi Minh City,Paid Ads,An Nguyen,2024-05-04,Customer,Pro,72,1675.82,20109.84,2026-02-16,Low
+CUST-0121,Eco Holdings 121,Phuc Vu,phucvu@ecoholdings121.com,Healthcare,SMB,Indonesia,Jakarta,Partner,Khanh Do,2024-03-08,At Risk,Pro,60,798.37,9580.44,2025-08-27,High
+CUST-0122,Nova Partners 122,Lam Pham,lampham@novapartners122.com,E-commerce,SMB,Vietnam,Ho Chi Minh City,Referral,An Nguyen,2025-10-17,Customer,Growth,90,350.72,4208.64,2025-11-27,Low
+CUST-0123,Future Labs 123,Trang Le,trangle@futurelabs123.com,Retail,SMB,Indonesia,Jakarta,LinkedIn,Giang Ho,2024-10-17,Customer,Enterprise,72,2575.09,30901.08,2025-10-31,Low
+CUST-0124,Jade Works 124,Ngoc Vo,ngocvo@jadeworks124.com,SaaS,Mid-Market,Vietnam,Hanoi,Email,Giang Ho,2025-07-31,Customer,Starter,72,228.59,2743.08,2025-08-15,Low
+CUST-0125,Lotus Labs 125,Vy Le,vyle@lotuslabs125.com,Education,Mid-Market,Indonesia,Jakarta,Referral,Linh Vu,2025-05-09,Customer,Growth,82,681.8,8181.6,2025-10-30,Low
+CUST-0126,Delta Solutions 126,Hoa Le,hoale@deltasolutions126.com,Logistics,SMB,Singapore,Singapore,Paid Ads,Binh Tran,2024-12-19,Customer,Growth,86,318.94,3827.28,2025-08-19,Low
+CUST-0127,Jade Studio 127,Nam Bui,nambui@jadestudio127.com,Logistics,Enterprise,Thailand,Bangkok,Paid Ads,Chi Le,2024-10-24,Churned,Starter,25,422.07,5064.84,2025-09-21,High
+CUST-0128,Smart Works 128,Ngoc Dang,ngocdang@smartworks128.com,Retail,Enterprise,Malaysia,Kuala Lumpur,Email,Dung Pham,2024-01-24,Customer,Growth,68,979.25,11751.0,2025-05-25,Medium
+CUST-0129,Jade Foods 129,Lan Vo,lanvo@jadefoods129.com,SaaS,Mid-Market,Thailand,Bangkok,Paid Ads,Giang Ho,2025-07-03,Customer,Starter,67,245.19,2942.28,2025-10-10,Medium
+CUST-0130,Eco Health 130,Quang Vu,quangvu@ecohealth130.com,Real Estate,SMB,Malaysia,Kuala Lumpur,LinkedIn,Binh Tran,2025-01-30,Churned,Starter,32,124.39,1492.68,2025-07-22,High
+CUST-0131,Prime Works 131,Lam Le,lamle@primeworks131.com,Real Estate,SMB,Vietnam,Hanoi,Paid Ads,Chi Le,2025-09-08,At Risk,Starter,56,110.39,1324.68,2026-02-11,High
+CUST-0132,Jade Tech 132,Minh Dang,minhdang@jadetech132.com,Finance,Mid-Market,Malaysia,Kuala Lumpur,Event,Giang Ho,2025-08-30,At Risk,Growth,51,639.84,7678.08,2025-09-27,High
+CUST-0133,Hyper Solutions 133,Linh Le,linhle@hypersolutions133.com,Hospitality,SMB,Indonesia,Jakarta,Website,Dung Pham,2025-09-03,Customer,Pro,84,1043.88,12526.56,2026-04-06,Low
+CUST-0134,Bright Retail 134,Vy Bui,vybui@brightretail134.com,Retail,SMB,Thailand,Bangkok,Partner,Chi Le,2025-08-09,Customer,Starter,90,126.62,1519.44,2026-02-23,Low
+CUST-0135,Global Capital 135,Vy Bui,vybui@globalcapital135.com,Education,Mid-Market,Indonesia,Jakarta,Paid Ads,Khanh Do,2025-06-15,Churned,Growth,37,647.1,7765.2,2025-10-28,High
+CUST-0136,Delta Holdings 136,Hung Hoang,hunghoang@deltaholdings136.com,Real Estate,SMB,Singapore,Singapore,Event,Dung Pham,2024-10-12,Customer,Pro,79,921.96,11063.52,2026-02-12,Low
+CUST-0137,Global Holdings 137,Ngoc Pham,ngocpham@globalholdings137.com,Logistics,Mid-Market,Philippines,Manila,Website,Giang Ho,2025-01-23,Customer,Pro,73,1735.32,20823.84,2025-06-03,Low
+CUST-0138,Delta Cloud 138,Hoa Nguyen,hoanguyen@deltacloud138.com,Real Estate,Mid-Market,Vietnam,Ho Chi Minh City,Email,Dung Pham,2024-10-04,Customer,Starter,65,281.36,3376.32,2025-04-26,Medium
+CUST-0139,Jade Solutions 139,Khanh Vu,khanhvu@jadesolutions139.com,Hospitality,SMB,Philippines,Manila,Partner,Chi Le,2024-12-04,Customer,Starter,85,141.03,1692.36,2026-01-23,Low
+CUST-0140,Future Works 140,Linh Bui,linhbui@futureworks140.com,E-commerce,SMB,Indonesia,Jakarta,LinkedIn,An Nguyen,2024-04-01,Customer,Pro,66,1141.92,13703.04,2025-01-19,Medium
+CUST-0141,Insight Health 141,Phuc Bui,phucbui@insighthealth141.com,SaaS,SMB,Malaysia,Kuala Lumpur,Webinar,Huy Vo,2024-02-08,Customer,Starter,66,155.36,1864.32,2025-03-10,Medium
+CUST-0142,Zen Group 142,Hanh Le,hanhle@zengroup142.com,Finance,SMB,Thailand,Bangkok,Website,Chi Le,2024-04-25,Customer,Growth,64,435.88,5230.56,2025-10-18,Medium
+CUST-0143,Jade Tech 143,Hung Vu,hungvu@jadetech143.com,Real Estate,SMB,Thailand,Bangkok,LinkedIn,Chi Le,2025-03-13,Customer,Pro,77,937.61,11251.32,2025-10-27,Low
+CUST-0144,Jade Systems 144,Khanh Tran,khanhtran@jadesystems144.com,Finance,Mid-Market,Vietnam,Hanoi,Webinar,Linh Vu,2024-09-24,Customer,Pro,75,1932.72,23192.64,2026-04-04,Low
+CUST-0145,Zen Foods 145,Hanh Pham,hanhpham@zenfoods145.com,Education,SMB,Vietnam,Ho Chi Minh City,Paid Ads,Linh Vu,2025-09-21,Customer,Growth,63,391.57,4698.84,2026-03-10,Medium
+CUST-0146,Lotus Partners 146,Giang Le,giangle@lotuspartners146.com,Hospitality,Mid-Market,Singapore,Singapore,Website,Binh Tran,2025-06-22,At Risk,Starter,56,205.43,2465.16,2026-03-23,High
+CUST-0147,Alpha Group 147,Nam Hoang,namhoang@alphagroup147.com,Retail,Mid-Market,Indonesia,Jakarta,Event,Binh Tran,2025-03-28,At Risk,Growth,54,713.13,8557.56,2026-01-08,High
+CUST-0148,Bright Works 148,Chau Bui,chaubui@brightworks148.com,SaaS,Mid-Market,Malaysia,Kuala Lumpur,Paid Ads,Khanh Do,2024-09-17,Customer,Starter,80,242.05,2904.6,2025-01-31,Low
+CUST-0149,Nova Logistics 149,Quang Le,quangle@novalogistics149.com,Manufacturing,Mid-Market,Philippines,Manila,Paid Ads,Khanh Do,2025-02-22,Churned,Growth,49,654.41,7852.92,2025-04-04,High
+CUST-0150,Urban Group 150,Quang Do,quangdo@urbangroup150.com,Real Estate,SMB,Vietnam,Ho Chi Minh City,Website,Dung Pham,2024-07-01,Customer,Pro,92,1205.32,14463.84,2025-08-26,Low
+CUST-0151,Bright Commerce 151,Duc Dang,ducdang@brightcommerce151.com,Education,SMB,Vietnam,Ho Chi Minh City,Website,Binh Tran,2024-08-23,At Risk,Starter,40,116.44,1397.28,2025-02-04,High
+CUST-0152,Hyper Labs 152,Phuc Hoang,phuchoang@hyperlabs152.com,SaaS,SMB,Vietnam,Hanoi,Email,Dung Pham,2025-09-04,Customer,Growth,85,433.31,5199.72,2025-10-09,Low
+CUST-0153,Quantum Holdings 153,Trang Le,trangle@quantumholdings153.com,E-commerce,Mid-Market,Philippines,Manila,LinkedIn,Giang Ho,2025-08-14,Churned,Starter,28,190.18,2282.16,2026-04-13,High
+CUST-0154,Hyper Capital 154,Quang Bui,quangbui@hypercapital154.com,SaaS,Enterprise,Indonesia,Jakarta,Partner,Huy Vo,2025-05-22,Customer,Pro,74,2879.84,34558.08,2025-08-24,Low
+CUST-0155,Urban Health 155,Lan Tran,lantran@urbanhealth155.com,Manufacturing,Mid-Market,Vietnam,Hanoi,LinkedIn,Khanh Do,2024-11-03,Customer,Growth,75,560.41,6724.92,2025-08-19,Low
+CUST-0156,Global Labs 156,Hanh Bui,hanhbui@globallabs156.com,Healthcare,SMB,Malaysia,Kuala Lumpur,Email,Binh Tran,2024-02-22,At Risk,Growth,58,424.25,5091.0,2025-10-14,High
+CUST-0157,Prime Commerce 157,Lam Hoang,lamhoang@primecommerce157.com,SaaS,SMB,Vietnam,Ho Chi Minh City,Event,Binh Tran,2024-11-06,At Risk,Enterprise,52,2876.64,34519.68,2025-10-10,High
+CUST-0158,Nova Labs 158,Lam Pham,lampham@novalabs158.com,Finance,SMB,Singapore,Singapore,Event,Linh Vu,2025-06-30,Customer,Growth,58,469.23,5630.76,2026-02-25,Medium
+CUST-0159,Prime Capital 159,Lam Pham,lampham@primecapital159.com,SaaS,Mid-Market,Vietnam,Ho Chi Minh City,Webinar,An Nguyen,2025-02-27,Customer,Pro,59,1616.11,19393.32,2025-06-07,Medium
+CUST-0160,Urban Studio 160,Ha Le,hale@urbanstudio160.com,Real Estate,Mid-Market,Indonesia,Jakarta,Event,Linh Vu,2025-05-26,Customer,Starter,66,262.74,3152.88,2025-11-22,Medium
+CUST-0161,Global Partners 161,Giang Nguyen,giangnguyen@globalpartners161.com,Real Estate,Enterprise,Vietnam,Hanoi,Website,Binh Tran,2024-07-07,Customer,Growth,56,1081.6,12979.2,2025-12-29,Medium
+CUST-0162,Titan Media 162,Anh Nguyen,anhnguyen@titanmedia162.com,Finance,SMB,Indonesia,Jakarta,Event,Linh Vu,2025-04-11,Customer,Pro,88,1004.5,12054.0,2025-11-07,Low
+CUST-0163,Insight Group 163,Hung Vu,hungvu@insightgroup163.com,Healthcare,SMB,Philippines,Manila,LinkedIn,Khanh Do,2025-07-02,Customer,Pro,81,851.37,10216.44,2026-03-28,Low
+CUST-0164,Prime Group 164,Bao Tran,baotran@primegroup164.com,Finance,Enterprise,Thailand,Bangkok,Webinar,Dung Pham,2024-03-21,Customer,Growth,79,1426.81,17121.72,2025-12-01,Low
+CUST-0165,Bright Capital 165,Duc Vo,ducvo@brightcapital165.com,Real Estate,SMB,Indonesia,Jakarta,Referral,Chi Le,2025-01-21,Customer,Starter,56,135.95,1631.4,2026-04-05,Medium
+CUST-0166,Eco Group 166,Hanh Dang,hanhdang@ecogroup166.com,E-commerce,SMB,Vietnam,Hanoi,Website,Giang Ho,2024-08-04,Customer,Enterprise,84,2805.47,33665.64,2025-01-09,Low
+CUST-0167,Bright Logistics 167,Phuc Vu,phucvu@brightlogistics167.com,Healthcare,SMB,Vietnam,Ho Chi Minh City,Paid Ads,Khanh Do,2024-03-19,Customer,Growth,74,418.13,5017.56,2025-02-10,Low
+CUST-0168,Nova Holdings 168,Ngoc Pham,ngocpham@novaholdings168.com,Education,Mid-Market,Singapore,Singapore,Paid Ads,Khanh Do,2025-03-23,Customer,Growth,54,621.6,7459.2,2025-11-08,High
+CUST-0169,Lotus Systems 169,Giang Do,giangdo@lotussystems169.com,Logistics,SMB,Malaysia,Kuala Lumpur,Webinar,Binh Tran,2025-01-19,At Risk,Pro,44,936.0,11232.0,2026-02-24,High
+CUST-0170,Titan Cloud 170,Quang Vo,quangvo@titancloud170.com,Retail,SMB,Singapore,Singapore,Referral,Giang Ho,2024-04-19,Customer,Growth,71,330.29,3963.48,2025-08-18,Medium
+CUST-0171,Titan Education 171,Hoa Dang,hoadang@titaneducation171.com,SaaS,SMB,Malaysia,Kuala Lumpur,Partner,Huy Vo,2024-04-15,Customer,Starter,58,145.49,1745.88,2025-10-14,Medium
+CUST-0172,Core Systems 172,Khanh Bui,khanhbui@coresystems172.com,Logistics,SMB,Singapore,Singapore,LinkedIn,Linh Vu,2025-12-02,Customer,Starter,86,128.08,1536.96,2026-03-19,Low
+CUST-0173,Rapid Labs 173,Linh Vu,linhvu@rapidlabs173.com,Education,Mid-Market,Thailand,Bangkok,Event,Dung Pham,2024-09-14,Customer,Growth,66,640.15,7681.8,2025-11-14,Medium
+CUST-0174,Viet Capital 174,Khanh Bui,khanhbui@vietcapital174.com,E-commerce,SMB,Singapore,Singapore,Event,Dung Pham,2025-03-16,Customer,Growth,98,466.3,5595.6,2025-08-26,Low
+CUST-0175,Rapid Works 175,Nam Pham,nampham@rapidworks175.com,Logistics,SMB,Philippines,Manila,Email,Binh Tran,2024-11-29,Customer,Growth,58,393.77,4725.24,2026-01-08,Medium
+CUST-0176,Prime Foods 176,Giang Do,giangdo@primefoods176.com,Retail,Mid-Market,Philippines,Manila,LinkedIn,Linh Vu,2025-12-10,Customer,Pro,70,1573.04,18876.48,2026-03-04,Medium
+CUST-0177,Nova Education 177,Duc Pham,ducpham@novaeducation177.com,E-commerce,SMB,Thailand,Bangkok,Website,Khanh Do,2025-04-04,At Risk,Growth,57,401.42,4817.04,2025-05-17,High
+CUST-0178,Titan Partners 178,Hung Pham,hungpham@titanpartners178.com,E-commerce,SMB,Indonesia,Jakarta,Paid Ads,Khanh Do,2025-10-24,Churned,Pro,33,812.68,9752.16,2025-11-18,High
+CUST-0179,Jade Cloud 179,Ngoc Tran,ngoctran@jadecloud179.com,E-commerce,Mid-Market,Vietnam,Ho Chi Minh City,Event,Khanh Do,2025-07-25,Customer,Growth,63,644.16,7729.92,2025-08-06,Medium
+CUST-0180,Delta Commerce 180,Lan Bui,lanbui@deltacommerce180.com,Retail,Mid-Market,Indonesia,Jakarta,Paid Ads,Giang Ho,2024-03-28,Customer,Starter,68,205.94,2471.28,2025-09-05,Medium
+CUST-0181,Future Holdings 181,Hoa Vo,hoavo@futureholdings181.com,Hospitality,SMB,Singapore,Singapore,Website,Binh Tran,2025-12-14,At Risk,Starter,45,157.8,1893.6,2026-03-18,High
+CUST-0182,Global Commerce 182,Anh Dang,anhdang@globalcommerce182.com,Finance,Mid-Market,Thailand,Bangkok,LinkedIn,Khanh Do,2024-06-12,Customer,Starter,61,254.59,3055.08,2025-07-22,Medium
+CUST-0183,Insight Studio 183,Nam Tran,namtran@insightstudio183.com,Logistics,SMB,Indonesia,Jakarta,Referral,Giang Ho,2025-08-29,Customer,Starter,80,123.95,1487.4,2025-10-18,Low
+CUST-0184,Viet Foods 184,Khanh Dang,khanhdang@vietfoods184.com,Finance,Mid-Market,Malaysia,Kuala Lumpur,Paid Ads,Binh Tran,2025-06-24,Customer,Growth,61,679.73,8156.76,2025-09-20,Medium
+CUST-0185,Smart Holdings 185,Minh Le,minhle@smartholdings185.com,Manufacturing,SMB,Vietnam,Ho Chi Minh City,Paid Ads,Chi Le,2025-11-19,Customer,Starter,63,110.27,1323.24,2026-02-25,Medium
+CUST-0186,Eco Health 186,Anh Bui,anhbui@ecohealth186.com,Manufacturing,Mid-Market,Thailand,Bangkok,Paid Ads,Chi Le,2025-12-11,At Risk,Starter,59,189.39,2272.68,2026-01-25,High
+CUST-0187,Bright Media 187,Hoa Hoang,hoahoang@brightmedia187.com,Real Estate,Mid-Market,Thailand,Bangkok,Partner,Linh Vu,2025-01-28,Customer,Growth,69,713.6,8563.2,2026-03-11,Medium
+CUST-0188,Bright Commerce 188,Lan Vo,lanvo@brightcommerce188.com,Real Estate,SMB,Philippines,Manila,Referral,Linh Vu,2024-08-18,Customer,Growth,78,344.38,4132.56,2025-10-06,Low
+CUST-0189,Viet Systems 189,Hoa Pham,hoapham@vietsystems189.com,Education,Enterprise,Vietnam,Hanoi,Webinar,Dung Pham,2025-07-13,At Risk,Pro,42,3080.26,36963.12,2025-09-11,High
+CUST-0190,Future Labs 190,Vy Vo,vyvo@futurelabs190.com,E-commerce,Mid-Market,Vietnam,Ho Chi Minh City,Email,Dung Pham,2025-12-28,At Risk,Growth,58,646.01,7752.12,2026-02-01,High
+CUST-0191,Eco Labs 191,Giang Pham,giangpham@ecolabs191.com,Healthcare,SMB,Singapore,Singapore,LinkedIn,Binh Tran,2025-12-21,Churned,Enterprise,28,2823.75,33885.0,2026-01-06,High
+CUST-0192,Titan Media 192,Chau Do,chaudo@titanmedia192.com,Logistics,SMB,Malaysia,Kuala Lumpur,Partner,Khanh Do,2024-09-10,Customer,Growth,49,408.38,4900.56,2026-03-27,High
+CUST-0193,Global Cloud 193,Quang Do,quangdo@globalcloud193.com,Finance,SMB,Thailand,Bangkok,Referral,An Nguyen,2025-12-12,Customer,Starter,58,123.49,1481.88,2025-12-20,Medium
+CUST-0194,Alpha Logistics 194,Duc Bui,ducbui@alphalogistics194.com,Hospitality,SMB,Philippines,Manila,Event,Chi Le,2024-08-04,At Risk,Starter,61,147.74,1772.88,2025-01-24,High
+CUST-0195,Future Solutions 195,Chau Vu,chauvu@futuresolutions195.com,Hospitality,SMB,Thailand,Bangkok,Webinar,Chi Le,2024-06-10,Customer,Starter,84,141.28,1695.36,2025-05-09,Low
+CUST-0196,Titan Commerce 196,Trang Pham,trangpham@titancommerce196.com,Healthcare,Mid-Market,Philippines,Manila,Referral,Binh Tran,2025-02-09,Customer,Starter,72,235.1,2821.2,2025-04-17,Low
+CUST-0197,Jade Retail 197,Lam Vu,lamvu@jaderetail197.com,SaaS,Mid-Market,Philippines,Manila,LinkedIn,Khanh Do,2024-01-10,Customer,Starter,76,270.64,3247.68,2025-02-22,Low
+CUST-0198,Zen Commerce 198,Giang Do,giangdo@zencommerce198.com,Manufacturing,Mid-Market,Indonesia,Jakarta,LinkedIn,An Nguyen,2025-01-26,Customer,Starter,81,261.62,3139.44,2025-12-13,Low
+CUST-0199,Zen Works 199,Quang Dang,quangdang@zenworks199.com,Retail,Enterprise,Vietnam,Ho Chi Minh City,Paid Ads,Khanh Do,2024-08-10,Churned,Pro,28,3376.25,40515.0,2025-05-08,High
+CUST-0200,Prime Logistics 200,Hoa Bui,hoabui@primelogistics200.com,SaaS,Mid-Market,Indonesia,Jakarta,Email,Dung Pham,2025-12-08,Customer,Enterprise,82,3951.17,47414.04,2025-12-21,Low
+CUST-0201,Core Tech 201,Ha Bui,habui@coretech201.com,Hospitality,Mid-Market,Vietnam,Hanoi,Paid Ads,An Nguyen,2024-09-03,Churned,Growth,38,668.07,8016.84,2025-10-07,High
+CUST-0202,Prime Foods 202,Minh Do,minhdo@primefoods202.com,Retail,SMB,Vietnam,Ho Chi Minh City,Partner,An Nguyen,2025-08-24,Customer,Starter,93,139.71,1676.52,2025-12-30,Low
+CUST-0203,Jade Cloud 203,Trang Tran,trangtran@jadecloud203.com,Real Estate,Mid-Market,Vietnam,Ho Chi Minh City,Referral,Giang Ho,2025-10-17,Customer,Starter,82,241.53,2898.36,2026-01-25,Low
+CUST-0204,Eco Tech 204,Duc Nguyen,ducnguyen@ecotech204.com,SaaS,SMB,Thailand,Bangkok,Webinar,An Nguyen,2024-09-01,Customer,Starter,96,141.48,1697.76,2025-03-31,Low
+CUST-0205,Quantum Media 205,Anh Vu,anhvu@quantummedia205.com,Hospitality,Enterprise,Malaysia,Kuala Lumpur,LinkedIn,Giang Ho,2024-06-16,Customer,Growth,75,1362.44,16349.28,2025-03-02,Low
+CUST-0206,Future Media 206,Ha Vu,havu@futuremedia206.com,Retail,SMB,Malaysia,Kuala Lumpur,Event,Linh Vu,2025-06-20,Customer,Growth,51,307.2,3686.4,2026-04-06,High
+CUST-0207,Urban Cloud 207,Ha Nguyen,hanguyen@urbancloud207.com,E-commerce,Mid-Market,Vietnam,Hanoi,Website,An Nguyen,2024-04-15,At Risk,Starter,51,224.96,2699.52,2025-03-18,High
+CUST-0208,Titan Solutions 208,Ha Pham,hapham@titansolutions208.com,Finance,SMB,Indonesia,Jakarta,Paid Ads,Binh Tran,2024-08-17,Customer,Starter,76,142.4,1708.8,2025-01-27,Low
+CUST-0209,Hyper Commerce 209,Khanh Dang,khanhdang@hypercommerce209.com,Retail,Enterprise,Philippines,Manila,Paid Ads,Giang Ho,2025-02-14,Customer,Starter,64,382.39,4588.68,2026-03-22,Medium
+CUST-0210,Alpha Labs 210,Quang Vu,quangvu@alphalabs210.com,E-commerce,Enterprise,Philippines,Manila,LinkedIn,Dung Pham,2025-01-12,Customer,Pro,79,3038.45,36461.4,2025-05-11,Low
+CUST-0211,Hyper Partners 211,Chau Nguyen,chaunguyen@hyperpartners211.com,Logistics,Mid-Market,Indonesia,Jakarta,Email,Dung Pham,2024-01-02,Customer,Starter,98,198.98,2387.76,2025-05-24,Low
+CUST-0212,Quantum Retail 212,Trang Nguyen,trangnguyen@quantumretail212.com,Finance,SMB,Indonesia,Jakarta,LinkedIn,Binh Tran,2025-02-26,Customer,Starter,68,125.66,1507.92,2025-12-26,Medium
+CUST-0213,Eco Logistics 213,Trang Tran,trangtran@ecologistics213.com,Healthcare,SMB,Singapore,Singapore,Paid Ads,Khanh Do,2024-08-30,Customer,Enterprise,75,2092.98,25115.76,2026-02-04,Low
+CUST-0214,Future Works 214,Duc Tran,ductran@futureworks214.com,Hospitality,SMB,Thailand,Bangkok,Email,Huy Vo,2024-06-17,Customer,Starter,80,129.8,1557.6,2026-03-13,Low
+CUST-0215,Alpha Group 215,Hung Le,hungle@alphagroup215.com,E-commerce,SMB,Philippines,Manila,Referral,Chi Le,2025-12-22,Customer,Enterprise,87,1923.85,23086.2,2026-01-29,Low
+CUST-0216,Prime Systems 216,Giang Pham,giangpham@primesystems216.com,Real Estate,Mid-Market,Vietnam,Ho Chi Minh City,LinkedIn,Binh Tran,2025-04-08,Customer,Starter,73,190.26,2283.12,2025-07-30,Low
+CUST-0217,Rapid Solutions 217,Duc Nguyen,ducnguyen@rapidsolutions217.com,Retail,Mid-Market,Singapore,Singapore,Website,Binh Tran,2025-12-03,Churned,Enterprise,45,3621.01,43452.12,2026-02-25,High
+CUST-0218,Insight Commerce 218,Ha Hoang,hahoang@insightcommerce218.com,E-commerce,SMB,Indonesia,Jakarta,Partner,An Nguyen,2024-06-21,Customer,Growth,92,327.74,3932.88,2025-04-20,Low
+CUST-0219,Titan Capital 219,Minh Pham,minhpham@titancapital219.com,SaaS,Mid-Market,Malaysia,Kuala Lumpur,Event,Giang Ho,2024-06-01,Customer,Starter,71,213.82,2565.84,2025-03-12,Medium
+CUST-0220,Prime Media 220,Phuc Vu,phucvu@primemedia220.com,Real Estate,Mid-Market,Thailand,Bangkok,Event,Huy Vo,2025-10-07,Customer,Pro,74,1769.59,21235.08,2026-02-28,Low
+CUST-0221,Hyper Media 221,Duc Pham,ducpham@hypermedia221.com,SaaS,SMB,Vietnam,Ho Chi Minh City,Website,Giang Ho,2024-07-03,At Risk,Starter,58,161.98,1943.76,2025-03-23,High
+CUST-0222,Nova Tech 222,Trang Vu,trangvu@novatech222.com,SaaS,Mid-Market,Vietnam,Ho Chi Minh City,Paid Ads,Khanh Do,2025-06-30,Churned,Growth,47,590.22,7082.64,2025-10-29,High
+CUST-0223,Titan Studio 223,Hoa Nguyen,hoanguyen@titanstudio223.com,Finance,Enterprise,Malaysia,Kuala Lumpur,Event,Dung Pham,2025-12-21,Customer,Starter,77,337.18,4046.16,2026-03-08,Low
+CUST-0224,Delta Partners 224,Trang Le,trangle@deltapartners224.com,Finance,Enterprise,Vietnam,Ho Chi Minh City,LinkedIn,Huy Vo,2024-01-01,At Risk,Pro,50,2533.76,30405.12,2025-03-17,High
+CUST-0225,Future Holdings 225,Ngoc Vu,ngocvu@futureholdings225.com,Retail,SMB,Indonesia,Jakarta,Paid Ads,Binh Tran,2025-01-08,Customer,Growth,80,463.52,5562.24,2026-02-17,Low
+CUST-0226,Viet Group 226,Ha Nguyen,hanguyen@vietgroup226.com,E-commerce,Mid-Market,Vietnam,Ho Chi Minh City,Partner,Chi Le,2025-12-11,Customer,Pro,81,1934.68,23216.16,2025-12-27,Low
+CUST-0227,Lotus Commerce 227,Ha Tran,hatran@lotuscommerce227.com,SaaS,SMB,Singapore,Singapore,Referral,Dung Pham,2025-08-04,Churned,Enterprise,27,2251.49,27017.88,2025-10-24,High
+CUST-0228,Quantum Studio 228,Minh Le,minhle@quantumstudio228.com,Healthcare,SMB,Indonesia,Jakarta,Referral,Giang Ho,2024-01-12,Customer,Starter,91,104.89,1258.68,2025-08-13,Low
+CUST-0229,Lotus Education 229,Duc Tran,ductran@lotuseducation229.com,Finance,Mid-Market,Vietnam,Hanoi,LinkedIn,Dung Pham,2025-01-22,Customer,Pro,76,1393.26,16719.12,2025-06-04,Low
+CUST-0230,Future Cloud 230,Anh Do,anhdo@futurecloud230.com,Manufacturing,Mid-Market,Malaysia,Kuala Lumpur,Paid Ads,Binh Tran,2025-01-19,Customer,Enterprise,73,4581.02,54972.24,2025-09-23,Low
+CUST-0231,Bright Systems 231,Ngoc Le,ngocle@brightsystems231.com,SaaS,SMB,Vietnam,Ho Chi Minh City,Webinar,Khanh Do,2024-06-09,Customer,Enterprise,74,2302.19,27626.28,2025-10-09,Low
+CUST-0232,Smart Logistics 232,Khanh Tran,khanhtran@smartlogistics232.com,Logistics,SMB,Philippines,Manila,Email,Linh Vu,2024-01-04,Customer,Pro,81,858.13,10297.56,2025-11-23,Low
+CUST-0233,Hyper Media 233,Nam Hoang,namhoang@hypermedia233.com,Logistics,SMB,Indonesia,Jakarta,LinkedIn,Khanh Do,2024-11-11,Customer,Starter,70,104.68,1256.16,2025-08-14,Medium
+CUST-0234,Prime Partners 234,Quang Nguyen,quangnguyen@primepartners234.com,SaaS,SMB,Indonesia,Jakarta,Paid Ads,Binh Tran,2025-07-31,At Risk,Pro,53,1201.82,14421.84,2025-11-24,High
+CUST-0235,Zen Retail 235,Phuc Dang,phucdang@zenretail235.com,Real Estate,Mid-Market,Thailand,Bangkok,Event,Dung Pham,2025-03-04,Customer,Growth,57,546.44,6557.28,2025-12-21,Medium
+CUST-0236,Eco Media 236,Minh Pham,minhpham@ecomedia236.com,Hospitality,SMB,Vietnam,Ho Chi Minh City,LinkedIn,Dung Pham,2024-05-03,Customer,Enterprise,90,1956.21,23474.52,2025-12-16,Low
+CUST-0237,Delta Cloud 237,Phuc Do,phucdo@deltacloud237.com,Retail,SMB,Malaysia,Kuala Lumpur,Webinar,Huy Vo,2024-11-23,Customer,Growth,77,420.07,5040.84,2025-10-28,Low
+CUST-0238,Quantum Media 238,Quang Vu,quangvu@quantummedia238.com,Manufacturing,Mid-Market,Malaysia,Kuala Lumpur,Referral,Binh Tran,2024-06-02,Customer,Pro,75,1458.8,17505.6,2025-05-27,Low
+CUST-0239,Smart Media 239,Hoa Nguyen,hoanguyen@smartmedia239.com,Hospitality,Mid-Market,Thailand,Bangkok,Partner,Giang Ho,2025-01-27,Customer,Starter,61,187.79,2253.48,2025-07-15,Medium
+CUST-0240,Jade Commerce 240,Hoa Le,hoale@jadecommerce240.com,SaaS,SMB,Philippines,Manila,Event,Giang Ho,2025-01-16,At Risk,Starter,61,107.89,1294.68,2026-04-05,High
+CUST-0241,Titan Education 241,Lan Nguyen,lannguyen@titaneducation241.com,Healthcare,Mid-Market,Malaysia,Kuala Lumpur,Event,Dung Pham,2024-11-24,Customer,Growth,84,774.74,9296.88,2026-03-21,Low
+CUST-0242,Bright Commerce 242,Bao Pham,baopham@brightcommerce242.com,Healthcare,Mid-Market,Thailand,Bangkok,LinkedIn,An Nguyen,2024-03-08,Customer,Starter,58,273.56,3282.72,2026-03-05,Medium
+CUST-0243,Smart Holdings 243,Nam Le,namle@smartholdings243.com,Finance,Mid-Market,Singapore,Singapore,Partner,Linh Vu,2024-02-21,Customer,Growth,78,652.83,7833.96,2025-11-01,Low
+CUST-0244,Hyper Capital 244,Trang Pham,trangpham@hypercapital244.com,Finance,SMB,Singapore,Singapore,Webinar,Binh Tran,2024-12-24,Customer,Pro,78,787.34,9448.08,2026-03-14,Low
+CUST-0245,Prime Systems 245,Hung Do,hungdo@primesystems245.com,Education,SMB,Thailand,Bangkok,Event,An Nguyen,2025-11-24,At Risk,Growth,40,336.66,4039.92,2026-02-10,High
+CUST-0246,Zen Works 246,Quang Dang,quangdang@zenworks246.com,Healthcare,SMB,Singapore,Singapore,Referral,Khanh Do,2025-04-15,Customer,Pro,62,1214.74,14576.88,2025-10-23,Medium
+CUST-0247,Bright Group 247,Phuc Pham,phucpham@brightgroup247.com,Retail,SMB,Singapore,Singapore,Webinar,Huy Vo,2024-11-01,Customer,Enterprise,69,2198.67,26384.04,2025-03-18,Medium
+CUST-0248,Viet Health 248,Bao Dang,baodang@viethealth248.com,Finance,Mid-Market,Indonesia,Jakarta,Webinar,Linh Vu,2025-11-07,Customer,Starter,51,228.81,2745.72,2026-02-14,High
+CUST-0249,Urban Education 249,Giang Hoang,gianghoang@urbaneducation249.com,Education,Mid-Market,Indonesia,Jakarta,Webinar,Huy Vo,2024-12-17,At Risk,Pro,45,1614.97,19379.64,2025-08-30,High
+CUST-0250,Smart Solutions 250,Nam Tran,namtran@smartsolutions250.com,Finance,Mid-Market,Vietnam,Ho Chi Minh City,Partner,Giang Ho,2025-11-27,At Risk,Growth,50,652.58,7830.96,2026-02-10,High
+CUST-0251,Lotus Cloud 251,Giang Pham,giangpham@lotuscloud251.com,E-commerce,Mid-Market,Malaysia,Kuala Lumpur,Referral,Dung Pham,2025-10-11,At Risk,Starter,41,277.65,3331.8,2025-11-18,High
+CUST-0252,Rapid Media 252,Bao Nguyen,baonguyen@rapidmedia252.com,Hospitality,SMB,Philippines,Manila,Event,Binh Tran,2025-08-06,Customer,Pro,82,1208.99,14507.88,2025-10-25,Low
+CUST-0253,Urban Health 253,Anh Nguyen,anhnguyen@urbanhealth253.com,Manufacturing,Mid-Market,Vietnam,Ho Chi Minh City,LinkedIn,Binh Tran,2024-08-02,Customer,Growth,67,839.58,10074.96,2025-07-16,Medium
+CUST-0254,Jade Retail 254,Hoa Vu,hoavu@jaderetail254.com,SaaS,Enterprise,Philippines,Manila,Website,Dung Pham,2025-01-17,Customer,Pro,66,3350.43,40205.16,2025-05-24,Medium
+CUST-0255,Smart Systems 255,Giang Vu,giangvu@smartsystems255.com,Logistics,Mid-Market,Singapore,Singapore,Webinar,An Nguyen,2024-04-15,Churned,Starter,36,220.09,2641.08,2026-03-31,High
+CUST-0256,Titan Education 256,Anh Dang,anhdang@titaneducation256.com,Manufacturing,Enterprise,Philippines,Manila,Email,Dung Pham,2024-07-11,Customer,Growth,79,1025.48,12305.76,2026-01-11,Low
+CUST-0257,Rapid Group 257,Duc Do,ducdo@rapidgroup257.com,Finance,Mid-Market,Philippines,Manila,Website,Giang Ho,2024-05-06,Customer,Starter,81,273.9,3286.8,2025-01-25,Low
+CUST-0258,Zen Retail 258,Hung Dang,hungdang@zenretail258.com,Real Estate,SMB,Indonesia,Jakarta,Webinar,An Nguyen,2024-05-06,Customer,Starter,77,108.06,1296.72,2025-09-24,Low
+CUST-0259,Jade Education 259,Lan Do,lando@jadeeducation259.com,Retail,Mid-Market,Malaysia,Kuala Lumpur,Referral,Binh Tran,2025-03-04,Customer,Starter,59,273.4,3280.8,2025-06-15,Medium
+CUST-0260,Smart Retail 260,Duc Dang,ducdang@smartretail260.com,Real Estate,SMB,Vietnam,Ho Chi Minh City,Paid Ads,Linh Vu,2024-02-10,Customer,Pro,62,770.74,9248.88,2025-02-15,Medium
+CUST-0261,Jade Systems 261,Ha Nguyen,hanguyen@jadesystems261.com,Real Estate,SMB,Indonesia,Jakarta,Email,Giang Ho,2024-04-02,Customer,Starter,85,105.0,1260.0,2026-02-21,Low
+CUST-0262,Zen Media 262,Lan Bui,lanbui@zenmedia262.com,Finance,SMB,Vietnam,Hanoi,Website,An Nguyen,2025-11-24,At Risk,Starter,61,140.83,1689.96,2026-02-16,High
+CUST-0263,Eco Solutions 263,Ha Tran,hatran@ecosolutions263.com,Finance,Mid-Market,Vietnam,Ho Chi Minh City,Event,Khanh Do,2024-04-05,Customer,Starter,58,269.99,3239.88,2025-11-29,Medium
+CUST-0264,Smart Studio 264,Anh Le,anhle@smartstudio264.com,Retail,SMB,Malaysia,Kuala Lumpur,LinkedIn,Linh Vu,2024-06-12,Customer,Growth,91,433.85,5206.2,2025-11-10,Low
+CUST-0265,Titan Partners 265,Hoa Vu,hoavu@titanpartners265.com,Logistics,SMB,Vietnam,Hanoi,Website,Huy Vo,2024-04-25,Customer,Starter,67,136.6,1639.2,2025-10-17,Medium
+CUST-0266,Bright Tech 266,Quang Dang,quangdang@brighttech266.com,E-commerce,SMB,Indonesia,Jakarta,Paid Ads,Linh Vu,2025-12-05,Customer,Pro,57,1053.63,12643.56,2026-01-12,Medium
+CUST-0267,Prime Group 267,Hoa Vo,hoavo@primegroup267.com,Manufacturing,Mid-Market,Thailand,Bangkok,Referral,Chi Le,2025-10-20,Customer,Enterprise,71,3916.75,47001.0,2026-02-26,Medium
+CUST-0268,Prime Cloud 268,Anh Tran,anhtran@primecloud268.com,Retail,SMB,Philippines,Manila,Event,Binh Tran,2024-08-28,Customer,Growth,85,318.27,3819.24,2025-09-12,Low
+CUST-0269,Lotus Holdings 269,Hoa Bui,hoabui@lotusholdings269.com,Real Estate,Mid-Market,Philippines,Manila,Email,Giang Ho,2024-02-06,Customer,Starter,65,272.73,3272.76,2026-02-23,Medium
+CUST-0270,Jade Holdings 270,Lam Vu,lamvu@jadeholdings270.com,E-commerce,SMB,Indonesia,Jakarta,Referral,Linh Vu,2025-09-26,Customer,Growth,78,412.81,4953.72,2025-09-26,Low
+CUST-0271,Global Commerce 271,Duc Do,ducdo@globalcommerce271.com,Finance,Mid-Market,Vietnam,Hanoi,LinkedIn,Linh Vu,2025-06-18,At Risk,Enterprise,48,4575.49,54905.88,2025-09-22,High
+CUST-0272,Alpha Partners 272,Giang Bui,giangbui@alphapartners272.com,Finance,SMB,Thailand,Bangkok,Event,Binh Tran,2024-07-14,Customer,Starter,63,137.36,1648.32,2025-09-16,Medium
+CUST-0273,Prime Cloud 273,Lam Vo,lamvo@primecloud273.com,Real Estate,Enterprise,Philippines,Manila,LinkedIn,Chi Le,2024-02-19,Customer,Growth,84,1288.31,15459.72,2026-03-28,Low
+CUST-0274,Urban Labs 274,Phuc Hoang,phuchoang@urbanlabs274.com,Education,SMB,Singapore,Singapore,LinkedIn,Linh Vu,2025-09-15,Customer,Enterprise,84,2532.78,30393.36,2026-03-25,Low
+CUST-0275,Nova Holdings 275,Lam Tran,lamtran@novaholdings275.com,Real Estate,Mid-Market,Vietnam,Ho Chi Minh City,Paid Ads,Giang Ho,2025-12-29,At Risk,Starter,45,238.02,2856.24,2026-03-27,High
+CUST-0276,Bright Health 276,Giang Nguyen,giangnguyen@brighthealth276.com,E-commerce,Mid-Market,Indonesia,Jakarta,Partner,Giang Ho,2025-05-06,At Risk,Pro,56,1463.24,17558.88,2025-11-17,High
+CUST-0277,Urban Group 277,Quang Pham,quangpham@urbangroup277.com,Manufacturing,Enterprise,Indonesia,Jakarta,Webinar,An Nguyen,2024-09-30,Customer,Starter,65,413.3,4959.6,2025-11-12,Medium
+CUST-0278,Bright Tech 278,Lam Vo,lamvo@brighttech278.com,Real Estate,Mid-Market,Philippines,Manila,Partner,An Nguyen,2024-08-31,Customer,Pro,73,2151.93,25823.16,2025-12-17,Low
+CUST-0279,Global Works 279,Vy Pham,vypham@globalworks279.com,Education,Mid-Market,Philippines,Manila,Email,Linh Vu,2024-09-14,At Risk,Enterprise,64,4531.0,54372.0,2026-01-14,High
+CUST-0280,Future Media 280,Hung Le,hungle@futuremedia280.com,Manufacturing,Enterprise,Vietnam,Hanoi,Referral,Chi Le,2025-04-04,Customer,Starter,59,408.67,4904.04,2026-01-13,Medium
+CUST-0281,Nova Foods 281,Trang Vo,trangvo@novafoods281.com,Finance,SMB,Vietnam,Ho Chi Minh City,Website,Huy Vo,2024-01-06,Customer,Starter,59,120.07,1440.84,2026-02-09,Medium
+CUST-0282,Lotus Labs 282,Hoa Pham,hoapham@lotuslabs282.com,Finance,Mid-Market,Vietnam,Ho Chi Minh City,Partner,Chi Le,2025-12-25,Customer,Growth,59,662.58,7950.96,2026-02-07,Medium
+CUST-0283,Lotus Group 283,Hoa Nguyen,hoanguyen@lotusgroup283.com,Healthcare,SMB,Philippines,Manila,Website,Linh Vu,2025-01-04,Customer,Growth,70,409.9,4918.8,2025-11-18,Medium
+CUST-0284,Titan Foods 284,Hanh Vu,hanhvu@titanfoods284.com,Logistics,SMB,Indonesia,Jakarta,Event,Huy Vo,2024-04-26,Customer,Starter,83,119.79,1437.48,2025-11-30,Low
+CUST-0285,Urban Cloud 285,Duc Pham,ducpham@urbancloud285.com,Manufacturing,Enterprise,Philippines,Manila,Referral,An Nguyen,2024-04-08,Customer,Growth,70,1335.83,16029.96,2026-03-04,Medium
+CUST-0286,Viet Capital 286,Quang Tran,quangtran@vietcapital286.com,Retail,Mid-Market,Vietnam,Ho Chi Minh City,Website,Huy Vo,2025-10-24,Customer,Starter,69,189.46,2273.52,2025-12-27,Medium
+CUST-0287,Core Systems 287,Trang Nguyen,trangnguyen@coresystems287.com,Logistics,SMB,Indonesia,Jakarta,Website,Huy Vo,2024-09-21,Customer,Growth,76,423.55,5082.6,2025-02-02,Low
+CUST-0288,Future Holdings 288,Anh Bui,anhbui@futureholdings288.com,Retail,SMB,Indonesia,Jakarta,Webinar,Binh Tran,2025-05-29,Customer,Starter,76,128.26,1539.12,2025-12-17,Low
+CUST-0289,Urban Holdings 289,Lan Nguyen,lannguyen@urbanholdings289.com,Manufacturing,Mid-Market,Philippines,Manila,LinkedIn,Giang Ho,2024-08-13,Customer,Pro,98,2079.38,24952.56,2025-11-28,Low
+CUST-0290,Quantum Partners 290,Lan Pham,lanpham@quantumpartners290.com,Retail,SMB,Malaysia,Kuala Lumpur,Webinar,Binh Tran,2024-05-24,Customer,Growth,55,427.25,5127.0,2026-01-07,Medium
+CUST-0291,Core Works 291,Nam Vo,namvo@coreworks291.com,Manufacturing,SMB,Malaysia,Kuala Lumpur,Referral,Dung Pham,2024-05-25,Customer,Pro,83,1148.12,13777.44,2025-10-09,Low
+CUST-0292,Zen Foods 292,Duc Hoang,duchoang@zenfoods292.com,Retail,SMB,Vietnam,Ho Chi Minh City,Paid Ads,Linh Vu,2025-11-18,Customer,Pro,53,1067.08,12804.96,2026-01-17,High
+CUST-0293,Hyper Cloud 293,Lam Pham,lampham@hypercloud293.com,Finance,SMB,Singapore,Singapore,LinkedIn,Giang Ho,2024-07-17,Customer,Growth,69,372.45,4469.4,2025-01-03,Medium
+CUST-0294,Future Foods 294,Quang Tran,quangtran@futurefoods294.com,Finance,SMB,Indonesia,Jakarta,Event,Linh Vu,2024-10-10,Customer,Starter,83,148.49,1781.88,2025-09-07,Low
+CUST-0295,Bright Holdings 295,Trang Pham,trangpham@brightholdings295.com,Manufacturing,Enterprise,Vietnam,Ho Chi Minh City,Referral,Binh Tran,2024-10-14,At Risk,Starter,58,437.55,5250.6,2026-01-29,High
+CUST-0296,Rapid Partners 296,Khanh Le,khanhle@rapidpartners296.com,Real Estate,Enterprise,Malaysia,Kuala Lumpur,Paid Ads,Chi Le,2024-09-23,Customer,Growth,62,1451.21,17414.52,2025-10-29,Medium
+CUST-0297,Nova Solutions 297,Giang Bui,giangbui@novasolutions297.com,Retail,SMB,Malaysia,Kuala Lumpur,LinkedIn,Dung Pham,2025-06-06,Customer,Starter,80,135.98,1631.76,2026-03-22,Low
+CUST-0298,Bright Solutions 298,Ngoc Bui,ngocbui@brightsolutions298.com,Hospitality,SMB,Singapore,Singapore,Email,An Nguyen,2024-08-12,Customer,Growth,81,436.01,5232.12,2025-07-18,Low
+CUST-0299,Insight Group 299,Chau Vo,chauvo@insightgroup299.com,Finance,SMB,Malaysia,Kuala Lumpur,Webinar,Giang Ho,2025-10-26,Customer,Growth,65,363.74,4364.88,2026-03-25,Medium
+CUST-0300,Hyper Foods 300,Nam Le,namle@hyperfoods300.com,Real Estate,SMB,Philippines,Manila,Event,Linh Vu,2024-08-16,At Risk,Enterprise,40,2422.02,29064.24,2025-03-13,High
+CUST-0301,Future Cloud 301,Hanh Dang,hanhdang@futurecloud301.com,Healthcare,SMB,Vietnam,Ho Chi Minh City,Email,Binh Tran,2025-06-10,Customer,Starter,73,142.51,1710.12,2026-02-10,Low
+CUST-0302,Prime Tech 302,Ha Vo,havo@primetech302.com,Education,SMB,Malaysia,Kuala Lumpur,Website,Chi Le,2024-01-23,At Risk,Growth,44,307.28,3687.36,2025-05-13,High
+CUST-0303,Insight Education 303,Vy Vo,vyvo@insighteducation303.com,Healthcare,Enterprise,Vietnam,Ho Chi Minh City,Event,Linh Vu,2025-11-08,Customer,Growth,83,1396.98,16763.76,2025-12-24,Low
+CUST-0304,Quantum Retail 304,Phuc Vo,phucvo@quantumretail304.com,Finance,Enterprise,Malaysia,Kuala Lumpur,Partner,Dung Pham,2025-12-03,Customer,Growth,61,1012.8,12153.6,2026-01-23,Medium
+CUST-0305,Quantum Systems 305,Minh Vo,minhvo@quantumsystems305.com,Retail,SMB,Malaysia,Kuala Lumpur,Referral,Binh Tran,2025-09-12,Customer,Growth,87,442.32,5307.84,2026-03-29,Low
+CUST-0306,Quantum Retail 306,Trang Tran,trangtran@quantumretail306.com,Real Estate,SMB,Philippines,Manila,Paid Ads,Khanh Do,2024-02-14,Customer,Growth,87,427.24,5126.88,2026-01-25,Low
+CUST-0307,Prime Health 307,Phuc Nguyen,phucnguyen@primehealth307.com,Hospitality,Mid-Market,Philippines,Manila,Webinar,Khanh Do,2024-09-17,Customer,Starter,70,246.02,2952.24,2025-03-02,Medium
+CUST-0308,Quantum Holdings 308,Linh Pham,linhpham@quantumholdings308.com,Finance,SMB,Vietnam,Hanoi,Webinar,Giang Ho,2025-12-05,At Risk,Starter,53,135.88,1630.56,2026-02-13,High
+CUST-0309,Future Logistics 309,Hoa Bui,hoabui@futurelogistics309.com,Hospitality,SMB,Malaysia,Kuala Lumpur,Webinar,Giang Ho,2025-07-24,Customer,Growth,77,321.66,3859.92,2025-09-22,Low
+CUST-0310,Smart Cloud 310,Chau Le,chaule@smartcloud310.com,Real Estate,SMB,Singapore,Singapore,LinkedIn,An Nguyen,2024-08-07,Customer,Pro,64,1051.14,12613.68,2026-02-16,Medium
+CUST-0311,Smart Commerce 311,Bao Le,baole@smartcommerce311.com,Retail,SMB,Singapore,Singapore,Partner,An Nguyen,2024-03-31,Churned,Starter,29,144.7,1736.4,2025-11-02,High
+CUST-0312,Bright Systems 312,Vy Le,vyle@brightsystems312.com,Education,Enterprise,Philippines,Manila,Website,Dung Pham,2024-01-11,At Risk,Growth,56,1240.86,14890.32,2025-04-29,High
+CUST-0313,Urban Works 313,Chau Tran,chautran@urbanworks313.com,SaaS,Enterprise,Vietnam,Hanoi,Paid Ads,Khanh Do,2024-09-01,Customer,Enterprise,69,6038.09,72457.08,2025-12-27,Medium
+CUST-0314,Delta Holdings 314,Minh Vo,minhvo@deltaholdings314.com,E-commerce,SMB,Philippines,Manila,Event,Dung Pham,2025-07-26,At Risk,Starter,58,102.28,1227.36,2025-10-23,High
+CUST-0315,Rapid Tech 315,Lam Bui,lambui@rapidtech315.com,Real Estate,SMB,Vietnam,Hanoi,Webinar,Giang Ho,2024-03-15,Customer,Pro,91,1111.49,13337.88,2026-01-23,Low
+CUST-0316,Insight Capital 316,Quang Nguyen,quangnguyen@insightcapital316.com,Retail,SMB,Thailand,Bangkok,Email,Dung Pham,2025-05-08,At Risk,Growth,53,464.7,5576.4,2026-01-27,High
+CUST-0317,Global Capital 317,Hanh Bui,hanhbui@globalcapital317.com,Retail,SMB,Indonesia,Jakarta,LinkedIn,Binh Tran,2024-10-21,Customer,Pro,60,886.08,10632.96,2026-01-18,Medium
+CUST-0318,Alpha Holdings 318,Ngoc Dang,ngocdang@alphaholdings318.com,Healthcare,SMB,Vietnam,Ho Chi Minh City,LinkedIn,Huy Vo,2024-09-04,Customer,Pro,96,818.95,9827.4,2025-02-10,Low
+CUST-0319,Bright Partners 319,Trang Le,trangle@brightpartners319.com,Hospitality,SMB,Singapore,Singapore,Event,Giang Ho,2024-02-13,Customer,Growth,77,367.13,4405.56,2026-01-20,Low
+CUST-0320,Alpha Tech 320,Nam Vu,namvu@alphatech320.com,Hospitality,Enterprise,Vietnam,Hanoi,LinkedIn,Khanh Do,2025-03-09,Customer,Growth,61,1019.41,12232.92,2025-11-29,Medium

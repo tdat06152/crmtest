@@ -1,0 +1,521 @@
+opportunity_id,customer_id,lead_id,created_date,pipeline,stage,amount_usd,probability,expected_close_date,actual_close_date,product,region,owner,is_won
+OPP-0001,CUST-0252,,2026-02-14,New Business,Demo,54471.3,0.4,2026-06-09,,Sales Analytics,Indonesia,Linh Vu,0
+OPP-0002,CUST-0141,LEAD-0144,2024-05-31,New Business,Discovery,105860.13,0.2,2024-08-26,,Sales Analytics,Thailand,Huy Vo,0
+OPP-0003,CUST-0082,LEAD-0313,2025-05-01,Expansion,Negotiation,26291.29,0.8,2025-08-27,,Marketing Automation,Indonesia,Chi Le,0
+OPP-0004,CUST-0150,,2024-09-20,Expansion,Discovery,35068.96,0.2,2024-11-12,,CRM Core,Thailand,Chi Le,0
+OPP-0005,CUST-0187,,2026-02-02,Renewal,Proposal,67025.42,0.6,2026-03-10,,Marketing Automation,Indonesia,Huy Vo,0
+OPP-0006,CUST-0257,LEAD-0384,2025-01-22,Renewal,Proposal,25249.7,0.6,2025-04-14,,Marketing Automation,Malaysia,Linh Vu,0
+OPP-0007,CUST-0195,LEAD-0067,2024-12-16,New Business,Demo,19710.45,0.4,2025-03-18,,Marketing Automation,Thailand,Binh Tran,0
+OPP-0008,CUST-0256,LEAD-0013,2026-02-03,Expansion,Closed Won,82999.75,1.0,2026-03-19,2026-02-25,CRM Core,Malaysia,Huy Vo,1
+OPP-0009,CUST-0051,,2025-06-03,New Business,Proposal,65100.96,0.6,2025-09-20,,CRM Core,Malaysia,Binh Tran,0
+OPP-0010,CUST-0291,LEAD-0251,2024-09-19,Expansion,Discovery,146233.55,0.2,2024-11-04,,Customer Support Suite,Singapore,Dung Pham,0
+OPP-0011,CUST-0021,,2024-09-29,New Business,Discovery,24421.67,0.2,2024-10-22,,Sales Analytics,Vietnam,Chi Le,0
+OPP-0012,CUST-0107,LEAD-0600,2026-02-18,New Business,Proposal,65358.17,0.6,2026-06-13,,Sales Analytics,Philippines,An Nguyen,0
+OPP-0013,CUST-0038,LEAD-0120,2025-03-28,New Business,Discovery,65999.52,0.2,2025-05-09,,Sales Analytics,Indonesia,Linh Vu,0
+OPP-0014,CUST-0005,LEAD-0115,2026-01-07,Renewal,Closed Won,28734.19,1.0,2026-05-05,2026-04-08,CRM Core,Thailand,Linh Vu,1
+OPP-0015,CUST-0209,,2025-05-19,Expansion,Demo,76735.1,0.4,2025-07-09,,Sales Analytics,Indonesia,Giang Ho,0
+OPP-0016,CUST-0128,LEAD-0575,2025-05-30,New Business,Proposal,117313.02,0.6,2025-07-07,,CRM Core,Thailand,Linh Vu,0
+OPP-0017,CUST-0261,LEAD-0168,2024-07-02,New Business,Proposal,37947.64,0.6,2024-09-11,,Marketing Automation,Singapore,Huy Vo,0
+OPP-0018,CUST-0056,,2024-08-06,New Business,Demo,92437.62,0.4,2024-10-20,,Sales Analytics,Indonesia,Binh Tran,0
+OPP-0019,CUST-0108,LEAD-0159,2024-11-27,New Business,Closed Won,94725.71,1.0,2025-01-01,2024-12-26,Sales Analytics,Indonesia,Chi Le,1
+OPP-0020,CUST-0243,,2026-03-18,New Business,Negotiation,28989.38,0.8,2026-05-05,,Sales Analytics,Thailand,Linh Vu,0
+OPP-0021,CUST-0075,LEAD-0363,2026-02-02,New Business,Demo,68467.8,0.4,2026-05-25,,CRM Core,Malaysia,Khanh Do,0
+OPP-0022,CUST-0029,,2024-12-28,Expansion,Discovery,72686.88,0.2,2025-02-16,,Marketing Automation,Singapore,An Nguyen,0
+OPP-0023,CUST-0132,LEAD-0383,2024-01-25,New Business,Closed Won,40430.85,1.0,2024-04-20,2024-02-29,Customer Support Suite,Thailand,Dung Pham,1
+OPP-0024,CUST-0055,LEAD-0165,2024-11-29,Expansion,Closed Lost,93557.04,0.0,2024-12-19,2024-12-19,Customer Support Suite,Singapore,Khanh Do,0
+OPP-0025,CUST-0144,,2025-08-23,New Business,Discovery,77476.18,0.2,2025-10-12,,Customer Support Suite,Thailand,Huy Vo,0
+OPP-0026,CUST-0057,LEAD-0076,2024-11-28,Renewal,Negotiation,114158.96,0.8,2025-01-01,,Marketing Automation,Indonesia,Giang Ho,0
+OPP-0027,CUST-0046,LEAD-0336,2025-08-09,New Business,Negotiation,67687.58,0.8,2025-12-06,,CRM Core,Singapore,Giang Ho,0
+OPP-0028,CUST-0035,,2025-12-17,Expansion,Demo,133516.67,0.4,2026-04-09,,Marketing Automation,Singapore,Linh Vu,0
+OPP-0029,CUST-0165,LEAD-0472,2025-01-05,New Business,Negotiation,85079.12,0.8,2025-02-21,,Marketing Automation,Vietnam,An Nguyen,0
+OPP-0030,CUST-0211,LEAD-0499,2026-03-28,New Business,Proposal,109731.9,0.6,2026-06-16,,CRM Core,Indonesia,Huy Vo,0
+OPP-0031,CUST-0224,,2025-05-31,Renewal,Demo,75416.43,0.4,2025-07-21,,CRM Core,Philippines,Huy Vo,0
+OPP-0032,CUST-0039,LEAD-0572,2026-03-10,New Business,Discovery,62593.04,0.2,2026-04-05,,Marketing Automation,Vietnam,Linh Vu,0
+OPP-0033,CUST-0221,,2025-04-21,New Business,Closed Won,89194.52,1.0,2025-07-28,2025-06-12,Marketing Automation,Philippines,Binh Tran,1
+OPP-0034,CUST-0295,LEAD-0541,2026-03-10,Expansion,Closed Won,68929.73,1.0,2026-03-27,2026-03-26,CRM Core,Indonesia,Giang Ho,1
+OPP-0035,CUST-0200,LEAD-0231,2024-11-26,New Business,Demo,28301.02,0.4,2025-03-07,,Customer Support Suite,Philippines,Huy Vo,0
+OPP-0036,CUST-0103,,2025-08-11,Renewal,Closed Won,99312.54,1.0,2025-11-07,2025-09-09,Marketing Automation,Singapore,Dung Pham,1
+OPP-0037,CUST-0158,LEAD-0027,2025-06-30,New Business,Closed Won,93976.66,1.0,2025-09-22,2025-08-23,Sales Analytics,Thailand,Binh Tran,1
+OPP-0038,CUST-0118,,2024-07-25,New Business,Proposal,33987.2,0.6,2024-09-05,,CRM Core,Singapore,Huy Vo,0
+OPP-0039,CUST-0226,LEAD-0385,2024-01-27,New Business,Closed Won,89309.71,1.0,2024-03-30,2024-02-09,Customer Support Suite,Malaysia,Linh Vu,1
+OPP-0040,CUST-0102,LEAD-0390,2025-08-27,Expansion,Discovery,29459.85,0.2,2025-11-24,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0041,CUST-0062,,2026-01-28,New Business,Closed Won,39391.79,1.0,2026-03-08,2026-02-13,Sales Analytics,Malaysia,Binh Tran,1
+OPP-0042,CUST-0131,LEAD-0468,2024-01-17,New Business,Closed Won,49236.39,1.0,2024-02-13,2024-02-07,Sales Analytics,Vietnam,Huy Vo,1
+OPP-0043,CUST-0223,,2025-10-29,New Business,Closed Lost,11965.27,0.0,2026-02-03,2025-12-27,CRM Core,Thailand,Linh Vu,0
+OPP-0044,CUST-0166,LEAD-0255,2024-06-30,New Business,Discovery,20379.48,0.2,2024-10-11,,CRM Core,Vietnam,Linh Vu,0
+OPP-0045,CUST-0306,,2026-01-27,Expansion,Demo,66242.04,0.4,2026-03-03,,Marketing Automation,Singapore,Khanh Do,0
+OPP-0046,CUST-0266,,2026-01-29,Expansion,Negotiation,58601.43,0.8,2026-02-27,,CRM Core,Malaysia,Chi Le,0
+OPP-0047,CUST-0105,LEAD-0641,2025-01-17,Renewal,Demo,45869.57,0.4,2025-05-12,,Sales Analytics,Vietnam,An Nguyen,0
+OPP-0048,CUST-0241,LEAD-0148,2025-02-21,New Business,Demo,72623.88,0.4,2025-05-14,,Marketing Automation,Vietnam,Chi Le,0
+OPP-0049,CUST-0008,LEAD-0229,2024-04-04,New Business,Discovery,116310.19,0.2,2024-06-17,,Customer Support Suite,Singapore,Khanh Do,0
+OPP-0050,CUST-0309,,2024-01-01,New Business,Proposal,108540.19,0.6,2024-02-01,,Sales Analytics,Indonesia,Huy Vo,0
+OPP-0051,CUST-0050,LEAD-0585,2024-07-19,New Business,Proposal,97042.8,0.6,2024-08-21,,CRM Core,Philippines,Dung Pham,0
+OPP-0052,CUST-0049,,2024-10-16,Renewal,Discovery,32998.52,0.2,2024-11-23,,Sales Analytics,Philippines,Giang Ho,0
+OPP-0053,CUST-0237,,2025-06-16,New Business,Closed Lost,33473.65,0.0,2025-07-17,2025-07-06,Sales Analytics,Philippines,Khanh Do,0
+OPP-0054,CUST-0075,LEAD-0036,2026-02-04,Renewal,Proposal,8816.1,0.6,2026-03-16,,CRM Core,Singapore,Chi Le,0
+OPP-0055,CUST-0018,,2024-08-31,New Business,Demo,69506.23,0.4,2024-11-15,,Marketing Automation,Philippines,Huy Vo,0
+OPP-0056,CUST-0296,LEAD-0220,2025-04-09,Expansion,Proposal,20673.45,0.6,2025-05-29,,Sales Analytics,Singapore,Huy Vo,0
+OPP-0057,CUST-0131,LEAD-0500,2026-03-01,New Business,Negotiation,80825.5,0.8,2026-04-28,,CRM Core,Thailand,Giang Ho,0
+OPP-0058,CUST-0219,,2025-07-10,New Business,Demo,55977.15,0.4,2025-08-08,,Sales Analytics,Singapore,Binh Tran,0
+OPP-0059,CUST-0178,LEAD-0447,2025-07-20,Renewal,Discovery,119947.49,0.2,2025-10-07,,Customer Support Suite,Indonesia,Chi Le,0
+OPP-0060,CUST-0100,LEAD-0228,2026-03-05,New Business,Negotiation,43764.51,0.8,2026-06-04,,CRM Core,Indonesia,Chi Le,0
+OPP-0061,CUST-0186,LEAD-0544,2024-06-19,New Business,Discovery,21544.99,0.2,2024-09-23,,Marketing Automation,Indonesia,Dung Pham,0
+OPP-0062,CUST-0313,LEAD-0208,2024-10-12,New Business,Closed Lost,49303.0,0.0,2024-12-15,2024-11-24,Customer Support Suite,Malaysia,Khanh Do,0
+OPP-0063,CUST-0165,LEAD-0308,2024-01-01,New Business,Negotiation,80838.18,0.8,2024-02-11,,CRM Core,Malaysia,Binh Tran,0
+OPP-0064,CUST-0072,LEAD-0165,2026-02-21,Renewal,Closed Lost,135061.64,0.0,2026-04-27,2026-03-13,Customer Support Suite,Indonesia,Khanh Do,0
+OPP-0065,CUST-0100,LEAD-0359,2024-03-13,New Business,Closed Lost,18571.96,0.0,2024-05-18,2024-03-30,Marketing Automation,Malaysia,Chi Le,0
+OPP-0066,CUST-0073,,2026-02-17,New Business,Negotiation,63433.19,0.8,2026-05-10,,Customer Support Suite,Singapore,Binh Tran,0
+OPP-0067,CUST-0225,LEAD-0128,2025-07-08,Expansion,Proposal,13399.78,0.6,2025-10-27,,Sales Analytics,Vietnam,Huy Vo,0
+OPP-0068,CUST-0196,,2024-09-18,New Business,Proposal,71027.47,0.6,2025-01-01,,Sales Analytics,Singapore,Linh Vu,0
+OPP-0069,CUST-0268,LEAD-0618,2025-09-05,Renewal,Demo,117640.31,0.4,2025-11-22,,Customer Support Suite,Vietnam,Khanh Do,0
+OPP-0070,CUST-0054,,2024-10-13,Expansion,Negotiation,141385.79,0.8,2025-01-17,,Customer Support Suite,Philippines,Huy Vo,0
+OPP-0071,CUST-0129,,2024-03-26,New Business,Negotiation,59294.75,0.8,2024-06-23,,Marketing Automation,Indonesia,Linh Vu,0
+OPP-0072,CUST-0223,,2024-04-16,Renewal,Closed Won,68502.87,1.0,2024-07-17,2024-07-07,Customer Support Suite,Vietnam,Khanh Do,1
+OPP-0073,CUST-0309,LEAD-0101,2025-08-12,New Business,Closed Lost,30156.49,0.0,2025-11-09,2025-11-07,Customer Support Suite,Philippines,Khanh Do,0
+OPP-0074,CUST-0021,LEAD-0451,2025-04-16,New Business,Proposal,112943.25,0.6,2025-08-13,,CRM Core,Singapore,Khanh Do,0
+OPP-0075,CUST-0291,LEAD-0646,2024-12-02,New Business,Closed Lost,96623.64,0.0,2025-03-20,2025-02-08,Sales Analytics,Philippines,Giang Ho,0
+OPP-0076,CUST-0177,LEAD-0255,2024-10-10,New Business,Discovery,56068.14,0.2,2025-01-14,,Marketing Automation,Singapore,Giang Ho,0
+OPP-0077,CUST-0286,,2025-07-14,Expansion,Closed Won,118159.16,1.0,2025-11-05,2025-11-05,Customer Support Suite,Vietnam,Chi Le,1
+OPP-0078,CUST-0171,LEAD-0552,2026-01-27,Expansion,Closed Lost,51156.34,0.0,2026-03-22,2026-02-12,Customer Support Suite,Thailand,Binh Tran,0
+OPP-0079,CUST-0319,LEAD-0191,2026-02-13,New Business,Demo,85472.74,0.4,2026-04-13,,Customer Support Suite,Thailand,Huy Vo,0
+OPP-0080,CUST-0082,,2024-11-26,New Business,Discovery,38642.26,0.2,2025-02-13,,Marketing Automation,Malaysia,Giang Ho,0
+OPP-0081,CUST-0317,,2024-07-22,New Business,Negotiation,109934.28,0.8,2024-10-29,,Sales Analytics,Singapore,Khanh Do,0
+OPP-0082,CUST-0175,LEAD-0407,2024-05-16,Renewal,Discovery,132039.37,0.2,2024-09-12,,CRM Core,Thailand,Giang Ho,0
+OPP-0083,CUST-0116,LEAD-0042,2024-09-08,New Business,Negotiation,34307.02,0.8,2024-11-25,,Marketing Automation,Singapore,Dung Pham,0
+OPP-0084,CUST-0116,LEAD-0222,2024-05-28,New Business,Demo,4451.33,0.4,2024-08-29,,Customer Support Suite,Malaysia,Linh Vu,0
+OPP-0085,CUST-0285,LEAD-0582,2024-07-15,New Business,Closed Won,70545.68,1.0,2024-10-18,2024-10-06,Sales Analytics,Philippines,Khanh Do,1
+OPP-0086,CUST-0187,,2024-09-26,New Business,Demo,111209.69,0.4,2024-11-10,,Sales Analytics,Vietnam,Huy Vo,0
+OPP-0087,CUST-0069,LEAD-0253,2026-03-25,New Business,Discovery,117759.3,0.2,2026-07-18,,Sales Analytics,Vietnam,Linh Vu,0
+OPP-0088,CUST-0310,LEAD-0357,2026-01-04,Expansion,Closed Lost,128553.29,0.0,2026-02-16,2026-02-12,CRM Core,Malaysia,Giang Ho,0
+OPP-0089,CUST-0317,LEAD-0606,2025-03-22,New Business,Closed Lost,4609.59,0.0,2025-06-02,2025-05-06,Sales Analytics,Malaysia,An Nguyen,0
+OPP-0090,CUST-0076,LEAD-0363,2024-03-07,Renewal,Demo,36498.04,0.4,2024-06-23,,Customer Support Suite,Malaysia,An Nguyen,0
+OPP-0091,CUST-0069,,2024-08-08,Expansion,Demo,109551.4,0.4,2024-09-30,,Marketing Automation,Indonesia,Huy Vo,0
+OPP-0092,CUST-0261,,2024-05-27,Expansion,Closed Lost,92626.24,0.0,2024-06-11,2024-06-10,Sales Analytics,Indonesia,An Nguyen,0
+OPP-0093,CUST-0062,,2024-03-13,New Business,Proposal,88184.88,0.6,2024-06-29,,Marketing Automation,Indonesia,Dung Pham,0
+OPP-0094,CUST-0092,,2024-01-31,Expansion,Proposal,20931.31,0.6,2024-02-26,,Customer Support Suite,Indonesia,Binh Tran,0
+OPP-0095,CUST-0199,,2025-01-25,Expansion,Discovery,55261.5,0.2,2025-02-21,,Sales Analytics,Singapore,Giang Ho,0
+OPP-0096,CUST-0221,,2025-05-26,New Business,Demo,25671.66,0.4,2025-07-24,,Sales Analytics,Malaysia,Binh Tran,0
+OPP-0097,CUST-0049,LEAD-0021,2025-09-12,New Business,Proposal,82559.79,0.6,2025-10-09,,CRM Core,Indonesia,Chi Le,0
+OPP-0098,CUST-0007,LEAD-0394,2024-11-09,New Business,Closed Lost,68477.03,0.0,2024-12-02,2024-11-21,Customer Support Suite,Singapore,Dung Pham,0
+OPP-0099,CUST-0275,LEAD-0354,2024-04-09,Renewal,Closed Lost,83681.77,0.0,2024-07-06,2024-05-11,Marketing Automation,Indonesia,Linh Vu,0
+OPP-0100,CUST-0077,,2025-03-31,New Business,Discovery,65435.6,0.2,2025-07-25,,Sales Analytics,Thailand,Binh Tran,0
+OPP-0101,CUST-0056,LEAD-0185,2025-08-27,New Business,Closed Lost,60722.82,0.0,2025-11-27,2025-09-25,Customer Support Suite,Philippines,Huy Vo,0
+OPP-0102,CUST-0281,,2026-03-13,New Business,Discovery,67426.5,0.2,2026-05-10,,Sales Analytics,Singapore,Dung Pham,0
+OPP-0103,CUST-0123,,2025-05-17,New Business,Proposal,44281.93,0.6,2025-08-01,,CRM Core,Philippines,Binh Tran,0
+OPP-0104,CUST-0165,,2025-07-30,New Business,Proposal,48513.82,0.6,2025-10-22,,Sales Analytics,Thailand,Dung Pham,0
+OPP-0105,CUST-0070,LEAD-0203,2024-10-26,Renewal,Proposal,61348.34,0.6,2024-11-20,,CRM Core,Malaysia,Linh Vu,0
+OPP-0106,CUST-0054,LEAD-0496,2025-09-16,New Business,Proposal,94790.48,0.6,2025-11-06,,CRM Core,Singapore,An Nguyen,0
+OPP-0107,CUST-0046,LEAD-0602,2026-02-04,Renewal,Proposal,89274.53,0.6,2026-05-24,,CRM Core,Vietnam,An Nguyen,0
+OPP-0108,CUST-0156,LEAD-0361,2025-07-04,New Business,Closed Won,105097.21,1.0,2025-10-21,2025-09-17,Sales Analytics,Philippines,Chi Le,1
+OPP-0109,CUST-0023,,2024-04-11,New Business,Discovery,28144.92,0.2,2024-06-05,,Marketing Automation,Malaysia,Binh Tran,0
+OPP-0110,CUST-0106,LEAD-0628,2024-01-16,New Business,Proposal,108237.84,0.6,2024-02-14,,CRM Core,Singapore,Giang Ho,0
+OPP-0111,CUST-0170,,2025-02-03,Expansion,Demo,131116.57,0.4,2025-02-23,,Marketing Automation,Indonesia,Chi Le,0
+OPP-0112,CUST-0127,,2024-09-21,Renewal,Proposal,79722.24,0.6,2024-12-25,,Marketing Automation,Philippines,Giang Ho,0
+OPP-0113,CUST-0140,LEAD-0011,2025-03-01,Expansion,Demo,131860.09,0.4,2025-04-09,,Sales Analytics,Indonesia,Linh Vu,0
+OPP-0114,CUST-0006,,2025-02-08,New Business,Closed Won,17208.81,1.0,2025-05-22,2025-03-18,CRM Core,Vietnam,Binh Tran,1
+OPP-0115,CUST-0082,,2025-05-15,New Business,Proposal,21749.27,0.6,2025-09-01,,Customer Support Suite,Thailand,Giang Ho,0
+OPP-0116,CUST-0275,LEAD-0584,2024-09-24,New Business,Discovery,99099.54,0.2,2024-11-03,,Customer Support Suite,Singapore,Binh Tran,0
+OPP-0117,CUST-0066,LEAD-0037,2025-04-25,New Business,Discovery,6487.69,0.2,2025-06-28,,CRM Core,Philippines,Chi Le,0
+OPP-0118,CUST-0035,LEAD-0631,2025-01-14,New Business,Discovery,72446.17,0.2,2025-02-03,,Marketing Automation,Philippines,Dung Pham,0
+OPP-0119,CUST-0163,LEAD-0015,2024-06-05,New Business,Closed Lost,110777.09,0.0,2024-08-03,2024-07-14,CRM Core,Malaysia,Dung Pham,0
+OPP-0120,CUST-0195,LEAD-0299,2025-06-01,New Business,Discovery,24932.01,0.2,2025-09-08,,CRM Core,Malaysia,Linh Vu,0
+OPP-0121,CUST-0036,,2025-09-08,New Business,Proposal,18916.89,0.6,2025-11-02,,CRM Core,Philippines,An Nguyen,0
+OPP-0122,CUST-0034,LEAD-0548,2024-01-18,New Business,Discovery,112070.47,0.2,2024-03-20,,Marketing Automation,Vietnam,An Nguyen,0
+OPP-0123,CUST-0120,LEAD-0004,2025-07-30,New Business,Proposal,68900.66,0.6,2025-09-11,,CRM Core,Vietnam,An Nguyen,0
+OPP-0124,CUST-0244,,2025-10-22,New Business,Negotiation,47638.52,0.8,2026-02-09,,Customer Support Suite,Indonesia,Dung Pham,0
+OPP-0125,CUST-0129,LEAD-0466,2025-05-05,Renewal,Discovery,75096.9,0.2,2025-07-05,,Marketing Automation,Thailand,Dung Pham,0
+OPP-0126,CUST-0090,,2025-02-01,Renewal,Closed Won,52248.2,1.0,2025-02-18,2025-02-17,Marketing Automation,Vietnam,Giang Ho,1
+OPP-0127,CUST-0236,LEAD-0555,2024-08-20,Renewal,Discovery,87316.04,0.2,2024-09-30,,Customer Support Suite,Malaysia,Khanh Do,0
+OPP-0128,CUST-0236,,2025-03-30,Renewal,Proposal,48139.64,0.6,2025-07-08,,Marketing Automation,Philippines,Khanh Do,0
+OPP-0129,CUST-0272,LEAD-0223,2025-12-30,New Business,Discovery,105085.52,0.2,2026-04-08,,Customer Support Suite,Indonesia,Huy Vo,0
+OPP-0130,CUST-0210,LEAD-0315,2024-08-06,New Business,Proposal,66053.79,0.6,2024-10-17,,Customer Support Suite,Vietnam,Giang Ho,0
+OPP-0131,CUST-0103,LEAD-0565,2024-06-09,Expansion,Closed Lost,68835.64,0.0,2024-08-19,2024-06-20,Customer Support Suite,Indonesia,Dung Pham,0
+OPP-0132,CUST-0089,LEAD-0577,2026-02-26,New Business,Proposal,94259.35,0.6,2026-04-07,,Customer Support Suite,Thailand,Chi Le,0
+OPP-0133,CUST-0240,LEAD-0134,2026-02-19,Renewal,Demo,128910.84,0.4,2026-05-23,,CRM Core,Vietnam,An Nguyen,0
+OPP-0134,CUST-0044,LEAD-0055,2024-12-05,Renewal,Demo,124674.77,0.4,2025-01-14,,Marketing Automation,Thailand,Chi Le,0
+OPP-0135,CUST-0034,LEAD-0324,2025-08-20,Renewal,Proposal,48250.84,0.6,2025-09-26,,Sales Analytics,Vietnam,Giang Ho,0
+OPP-0136,CUST-0288,LEAD-0156,2024-06-16,New Business,Proposal,74958.09,0.6,2024-07-21,,Sales Analytics,Philippines,Linh Vu,0
+OPP-0137,CUST-0128,,2025-11-10,Renewal,Closed Lost,15472.25,0.0,2025-11-30,2025-11-22,Customer Support Suite,Malaysia,Khanh Do,0
+OPP-0138,CUST-0245,LEAD-0021,2025-08-23,Expansion,Closed Won,145406.53,1.0,2025-11-20,2025-11-14,Customer Support Suite,Vietnam,Chi Le,1
+OPP-0139,CUST-0252,,2025-08-03,New Business,Demo,12031.24,0.4,2025-10-04,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0140,CUST-0320,LEAD-0404,2024-06-02,New Business,Closed Lost,115328.9,0.0,2024-07-12,2024-07-12,Sales Analytics,Philippines,Huy Vo,0
+OPP-0141,CUST-0043,LEAD-0507,2024-01-17,Expansion,Negotiation,154727.06,0.8,2024-03-18,,Marketing Automation,Indonesia,Giang Ho,0
+OPP-0142,CUST-0144,,2024-01-25,New Business,Closed Lost,8137.31,0.0,2024-03-10,2024-02-23,Customer Support Suite,Malaysia,Giang Ho,0
+OPP-0143,CUST-0173,LEAD-0470,2025-11-06,New Business,Proposal,17416.68,0.6,2026-02-08,,CRM Core,Thailand,An Nguyen,0
+OPP-0144,CUST-0195,LEAD-0482,2025-01-24,New Business,Negotiation,33893.48,0.8,2025-03-28,,Sales Analytics,Indonesia,Huy Vo,0
+OPP-0145,CUST-0218,LEAD-0351,2024-05-15,Renewal,Negotiation,77258.33,0.8,2024-07-31,,Sales Analytics,Vietnam,Giang Ho,0
+OPP-0146,CUST-0231,,2024-03-27,Expansion,Closed Lost,134750.9,0.0,2024-04-25,2024-04-06,CRM Core,Singapore,Chi Le,0
+OPP-0147,CUST-0039,LEAD-0067,2024-06-06,New Business,Demo,12311.68,0.4,2024-06-30,,CRM Core,Philippines,An Nguyen,0
+OPP-0148,CUST-0175,,2025-09-24,New Business,Negotiation,115946.03,0.8,2025-12-06,,CRM Core,Indonesia,Huy Vo,0
+OPP-0149,CUST-0063,LEAD-0143,2024-07-23,Renewal,Closed Lost,27482.5,0.0,2024-11-06,2024-08-13,Customer Support Suite,Philippines,An Nguyen,0
+OPP-0150,CUST-0120,LEAD-0082,2025-01-31,New Business,Proposal,58173.2,0.6,2025-03-12,,Marketing Automation,Malaysia,Linh Vu,0
+OPP-0151,CUST-0148,,2025-08-29,Renewal,Discovery,27394.71,0.2,2025-09-13,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0152,CUST-0135,LEAD-0556,2025-08-12,Renewal,Negotiation,97679.2,0.8,2025-09-05,,Marketing Automation,Thailand,Dung Pham,0
+OPP-0153,CUST-0117,LEAD-0607,2024-10-30,New Business,Proposal,35677.56,0.6,2025-01-07,,Sales Analytics,Philippines,Giang Ho,0
+OPP-0154,CUST-0124,LEAD-0258,2024-10-15,Expansion,Discovery,12230.91,0.2,2024-12-13,,Customer Support Suite,Vietnam,An Nguyen,0
+OPP-0155,CUST-0229,LEAD-0091,2024-11-22,New Business,Closed Lost,44654.61,0.0,2025-03-04,2025-02-17,Sales Analytics,Philippines,Binh Tran,0
+OPP-0156,CUST-0164,LEAD-0492,2025-01-14,New Business,Closed Won,38990.01,1.0,2025-05-04,2025-02-17,Marketing Automation,Vietnam,Dung Pham,1
+OPP-0157,CUST-0181,LEAD-0473,2024-11-28,Renewal,Closed Won,134237.86,1.0,2025-02-10,2025-02-05,Marketing Automation,Singapore,Linh Vu,1
+OPP-0158,CUST-0198,LEAD-0026,2024-05-22,Expansion,Proposal,136096.43,0.6,2024-06-25,,Sales Analytics,Vietnam,Khanh Do,0
+OPP-0159,CUST-0223,,2025-11-08,Renewal,Discovery,130678.03,0.2,2025-12-20,,CRM Core,Malaysia,Binh Tran,0
+OPP-0160,CUST-0242,LEAD-0346,2024-07-21,New Business,Proposal,37815.61,0.6,2024-10-14,,Marketing Automation,Singapore,Giang Ho,0
+OPP-0161,CUST-0250,,2025-05-26,New Business,Closed Lost,20858.84,0.0,2025-09-03,2025-06-12,CRM Core,Vietnam,Huy Vo,0
+OPP-0162,CUST-0166,,2025-09-14,New Business,Demo,113313.88,0.4,2026-01-09,,Customer Support Suite,Malaysia,Dung Pham,0
+OPP-0163,CUST-0007,,2025-10-08,New Business,Negotiation,82718.79,0.8,2025-12-16,,Marketing Automation,Indonesia,Binh Tran,0
+OPP-0164,CUST-0145,LEAD-0383,2026-04-06,Expansion,Discovery,89321.27,0.2,2026-06-20,,CRM Core,Malaysia,Binh Tran,0
+OPP-0165,CUST-0190,LEAD-0215,2024-11-30,Expansion,Closed Lost,141051.8,0.0,2025-03-06,2025-02-08,Sales Analytics,Indonesia,Giang Ho,0
+OPP-0166,CUST-0170,,2024-05-10,Renewal,Closed Won,79957.71,1.0,2024-06-23,2024-06-04,Customer Support Suite,Indonesia,Dung Pham,1
+OPP-0167,CUST-0241,,2024-11-16,New Business,Discovery,90522.69,0.2,2025-02-18,,CRM Core,Indonesia,Huy Vo,0
+OPP-0168,CUST-0252,LEAD-0273,2024-03-09,New Business,Closed Won,95371.23,1.0,2024-04-28,2024-03-28,CRM Core,Malaysia,Huy Vo,1
+OPP-0169,CUST-0127,LEAD-0004,2024-12-01,New Business,Negotiation,68301.59,0.8,2025-03-26,,Sales Analytics,Malaysia,Giang Ho,0
+OPP-0170,CUST-0161,,2025-07-03,New Business,Closed Won,24207.02,1.0,2025-10-02,2025-09-28,Sales Analytics,Philippines,Binh Tran,1
+OPP-0171,CUST-0032,,2024-07-18,New Business,Proposal,31290.72,0.6,2024-09-19,,CRM Core,Thailand,Khanh Do,0
+OPP-0172,CUST-0134,LEAD-0304,2024-01-26,New Business,Negotiation,51727.94,0.8,2024-03-28,,Marketing Automation,Malaysia,Linh Vu,0
+OPP-0173,CUST-0196,LEAD-0609,2025-03-30,Expansion,Discovery,44562.89,0.2,2025-05-19,,Customer Support Suite,Thailand,Dung Pham,0
+OPP-0174,CUST-0084,LEAD-0331,2024-01-18,New Business,Closed Won,67203.86,1.0,2024-03-20,2024-02-06,Customer Support Suite,Indonesia,Huy Vo,1
+OPP-0175,CUST-0014,,2025-10-23,New Business,Discovery,74343.68,0.2,2026-02-12,,Sales Analytics,Thailand,An Nguyen,0
+OPP-0176,CUST-0290,,2024-02-10,Renewal,Discovery,99633.57,0.2,2024-03-12,,CRM Core,Vietnam,Linh Vu,0
+OPP-0177,CUST-0072,LEAD-0536,2024-06-16,Renewal,Demo,104707.3,0.4,2024-08-15,,CRM Core,Malaysia,Huy Vo,0
+OPP-0178,CUST-0176,,2025-05-19,New Business,Discovery,51129.64,0.2,2025-09-12,,Marketing Automation,Indonesia,Khanh Do,0
+OPP-0179,CUST-0046,,2025-04-04,New Business,Closed Won,104502.48,1.0,2025-05-18,2025-04-29,CRM Core,Vietnam,An Nguyen,1
+OPP-0180,CUST-0116,LEAD-0044,2024-08-12,Expansion,Closed Lost,149008.18,0.0,2024-09-13,2024-09-07,Sales Analytics,Malaysia,Huy Vo,0
+OPP-0181,CUST-0203,LEAD-0297,2025-05-19,New Business,Negotiation,50962.77,0.8,2025-06-11,,Marketing Automation,Indonesia,An Nguyen,0
+OPP-0182,CUST-0019,LEAD-0597,2025-05-18,New Business,Negotiation,70626.82,0.8,2025-07-19,,Customer Support Suite,Singapore,Chi Le,0
+OPP-0183,CUST-0078,LEAD-0643,2026-02-01,Expansion,Demo,60017.71,0.4,2026-04-06,,Marketing Automation,Indonesia,Chi Le,0
+OPP-0184,CUST-0132,LEAD-0335,2024-09-23,New Business,Negotiation,55294.67,0.8,2024-12-04,,Marketing Automation,Singapore,Khanh Do,0
+OPP-0185,CUST-0058,LEAD-0110,2026-01-30,Renewal,Demo,105399.33,0.4,2026-05-19,,Marketing Automation,Indonesia,Giang Ho,0
+OPP-0186,CUST-0156,LEAD-0056,2025-10-25,Expansion,Proposal,138263.96,0.6,2025-12-11,,CRM Core,Thailand,Dung Pham,0
+OPP-0187,CUST-0007,LEAD-0186,2024-12-07,New Business,Closed Lost,47851.46,0.0,2025-02-01,2025-01-15,Marketing Automation,Malaysia,Khanh Do,0
+OPP-0188,CUST-0246,LEAD-0293,2026-03-25,Renewal,Closed Won,36023.95,1.0,2026-06-26,2026-04-05,CRM Core,Indonesia,An Nguyen,1
+OPP-0189,CUST-0026,,2024-10-07,Renewal,Demo,54058.82,0.4,2025-01-02,,CRM Core,Vietnam,Chi Le,0
+OPP-0190,CUST-0189,LEAD-0196,2025-03-09,Expansion,Demo,45548.73,0.4,2025-06-15,,Sales Analytics,Vietnam,An Nguyen,0
+OPP-0191,CUST-0062,LEAD-0270,2025-04-12,Renewal,Closed Won,110935.55,1.0,2025-05-23,2025-04-29,Customer Support Suite,Singapore,An Nguyen,1
+OPP-0192,CUST-0008,LEAD-0241,2025-04-11,Renewal,Proposal,77945.26,0.6,2025-05-30,,Customer Support Suite,Vietnam,An Nguyen,0
+OPP-0193,CUST-0079,LEAD-0408,2025-11-25,New Business,Discovery,53033.53,0.2,2026-02-07,,Marketing Automation,Vietnam,Khanh Do,0
+OPP-0194,CUST-0296,,2025-11-03,New Business,Closed Won,35137.1,1.0,2025-12-24,2025-12-13,Sales Analytics,Vietnam,Dung Pham,1
+OPP-0195,CUST-0140,,2024-07-11,New Business,Proposal,2229.93,0.6,2024-10-17,,Customer Support Suite,Indonesia,An Nguyen,0
+OPP-0196,CUST-0251,,2026-01-02,Expansion,Discovery,58442.94,0.2,2026-04-03,,Customer Support Suite,Malaysia,Huy Vo,0
+OPP-0197,CUST-0279,LEAD-0381,2026-01-13,New Business,Discovery,88753.0,0.2,2026-03-13,,Marketing Automation,Indonesia,Khanh Do,0
+OPP-0198,CUST-0206,LEAD-0356,2026-02-24,New Business,Closed Won,90695.79,1.0,2026-05-13,2026-04-09,Sales Analytics,Malaysia,Khanh Do,1
+OPP-0199,CUST-0045,,2024-05-20,New Business,Demo,57053.51,0.4,2024-09-08,,CRM Core,Thailand,Chi Le,0
+OPP-0200,CUST-0260,,2025-10-02,New Business,Demo,76658.3,0.4,2026-01-20,,Marketing Automation,Singapore,Chi Le,0
+OPP-0201,CUST-0203,LEAD-0430,2024-04-24,Renewal,Proposal,72805.49,0.6,2024-07-21,,Sales Analytics,Indonesia,An Nguyen,0
+OPP-0202,CUST-0085,,2025-12-01,Expansion,Demo,20535.73,0.4,2026-03-19,,Customer Support Suite,Indonesia,Huy Vo,0
+OPP-0203,CUST-0202,LEAD-0360,2026-02-06,New Business,Closed Won,14558.34,1.0,2026-05-13,2026-03-29,Marketing Automation,Philippines,Linh Vu,1
+OPP-0204,CUST-0097,,2026-03-23,Renewal,Closed Won,69499.04,1.0,2026-04-16,2026-04-13,Marketing Automation,Malaysia,Giang Ho,1
+OPP-0205,CUST-0156,,2025-07-08,Expansion,Closed Lost,31900.41,0.0,2025-07-25,2025-07-18,CRM Core,Singapore,Giang Ho,0
+OPP-0206,CUST-0096,,2025-11-27,New Business,Demo,114219.49,0.4,2026-02-04,,Customer Support Suite,Vietnam,Huy Vo,0
+OPP-0207,CUST-0306,LEAD-0398,2025-01-18,New Business,Proposal,71583.51,0.6,2025-04-04,,Customer Support Suite,Vietnam,An Nguyen,0
+OPP-0208,CUST-0256,LEAD-0032,2024-09-18,Expansion,Closed Won,61468.06,1.0,2024-12-10,2024-10-10,Sales Analytics,Philippines,Khanh Do,1
+OPP-0209,CUST-0252,,2025-01-24,New Business,Proposal,108893.3,0.6,2025-04-09,,CRM Core,Vietnam,Giang Ho,0
+OPP-0210,CUST-0126,,2026-01-02,Expansion,Discovery,60869.16,0.2,2026-03-01,,Customer Support Suite,Vietnam,Dung Pham,0
+OPP-0211,CUST-0166,LEAD-0463,2024-08-09,New Business,Discovery,82691.21,0.2,2024-11-07,,Customer Support Suite,Vietnam,An Nguyen,0
+OPP-0212,CUST-0258,LEAD-0282,2025-12-14,New Business,Closed Won,65208.23,1.0,2026-03-31,2025-12-30,CRM Core,Philippines,Giang Ho,1
+OPP-0213,CUST-0265,LEAD-0463,2024-10-27,Renewal,Discovery,83872.03,0.2,2025-01-04,,Marketing Automation,Vietnam,Binh Tran,0
+OPP-0214,CUST-0102,LEAD-0256,2024-01-06,New Business,Closed Won,79156.84,1.0,2024-02-12,2024-02-09,CRM Core,Thailand,Khanh Do,1
+OPP-0215,CUST-0094,LEAD-0598,2025-05-20,New Business,Proposal,84692.04,0.6,2025-06-18,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0216,CUST-0068,,2025-09-11,New Business,Proposal,45267.73,0.6,2025-12-24,,CRM Core,Philippines,Khanh Do,0
+OPP-0217,CUST-0269,,2025-01-12,Expansion,Discovery,75259.14,0.2,2025-03-03,,Customer Support Suite,Vietnam,Khanh Do,0
+OPP-0218,CUST-0034,LEAD-0367,2025-05-01,New Business,Closed Lost,108980.72,0.0,2025-06-02,2025-05-14,Marketing Automation,Vietnam,An Nguyen,0
+OPP-0219,CUST-0293,LEAD-0202,2025-04-01,Expansion,Proposal,88100.32,0.6,2025-06-16,,Marketing Automation,Indonesia,Binh Tran,0
+OPP-0220,CUST-0212,LEAD-0041,2024-08-25,New Business,Demo,90103.77,0.4,2024-10-29,,Sales Analytics,Vietnam,An Nguyen,0
+OPP-0221,CUST-0262,,2024-04-25,New Business,Demo,64601.28,0.4,2024-06-17,,Sales Analytics,Singapore,Chi Le,0
+OPP-0222,CUST-0246,,2024-07-12,Expansion,Proposal,35446.39,0.6,2024-08-18,,CRM Core,Singapore,Khanh Do,0
+OPP-0223,CUST-0066,,2024-05-28,Renewal,Discovery,71966.29,0.2,2024-06-21,,Marketing Automation,Philippines,Chi Le,0
+OPP-0224,CUST-0212,,2025-01-05,Renewal,Closed Won,57447.32,1.0,2025-04-26,2025-03-11,Sales Analytics,Malaysia,An Nguyen,1
+OPP-0225,CUST-0015,LEAD-0383,2025-02-04,New Business,Closed Won,28517.08,1.0,2025-03-07,2025-03-01,Marketing Automation,Singapore,Khanh Do,1
+OPP-0226,CUST-0307,LEAD-0510,2026-03-02,New Business,Negotiation,51243.34,0.8,2026-05-27,,Marketing Automation,Philippines,Binh Tran,0
+OPP-0227,CUST-0021,LEAD-0403,2024-10-14,New Business,Closed Won,110219.07,1.0,2024-12-06,2024-11-27,Sales Analytics,Malaysia,Huy Vo,1
+OPP-0228,CUST-0262,LEAD-0604,2025-12-12,New Business,Negotiation,72722.34,0.8,2026-04-06,,Customer Support Suite,Thailand,Chi Le,0
+OPP-0229,CUST-0047,,2024-12-16,New Business,Negotiation,9426.26,0.8,2025-03-21,,Sales Analytics,Thailand,Giang Ho,0
+OPP-0230,CUST-0305,LEAD-0321,2024-11-27,Renewal,Proposal,49593.24,0.6,2025-01-20,,Sales Analytics,Indonesia,Dung Pham,0
+OPP-0231,CUST-0211,LEAD-0613,2025-03-10,Expansion,Discovery,96642.44,0.2,2025-07-03,,Sales Analytics,Singapore,Chi Le,0
+OPP-0232,CUST-0186,,2025-07-20,New Business,Closed Won,70646.39,1.0,2025-08-26,2025-08-02,Marketing Automation,Singapore,Giang Ho,1
+OPP-0233,CUST-0307,,2024-12-11,New Business,Negotiation,60640.77,0.8,2025-01-26,,Customer Support Suite,Philippines,Khanh Do,0
+OPP-0234,CUST-0139,,2025-04-15,New Business,Discovery,73506.08,0.2,2025-06-01,,Customer Support Suite,Indonesia,Binh Tran,0
+OPP-0235,CUST-0202,LEAD-0194,2026-04-11,Renewal,Closed Lost,64011.01,0.0,2026-07-05,2026-04-21,Customer Support Suite,Singapore,Giang Ho,0
+OPP-0236,CUST-0137,LEAD-0438,2025-10-05,Renewal,Negotiation,66943.16,0.8,2025-12-08,,CRM Core,Singapore,Huy Vo,0
+OPP-0237,CUST-0093,LEAD-0056,2024-02-12,Expansion,Demo,86738.47,0.4,2024-04-01,,CRM Core,Philippines,Chi Le,0
+OPP-0238,CUST-0217,LEAD-0581,2024-03-02,New Business,Demo,75674.48,0.4,2024-04-21,,Customer Support Suite,Singapore,Giang Ho,0
+OPP-0239,CUST-0119,LEAD-0619,2025-08-07,Expansion,Closed Lost,56834.79,0.0,2025-09-21,2025-08-26,Sales Analytics,Singapore,An Nguyen,0
+OPP-0240,CUST-0088,,2025-01-27,New Business,Negotiation,114627.85,0.8,2025-02-22,,Customer Support Suite,Vietnam,Giang Ho,0
+OPP-0241,CUST-0049,LEAD-0417,2024-08-14,New Business,Negotiation,107242.45,0.8,2024-09-26,,CRM Core,Vietnam,Giang Ho,0
+OPP-0242,CUST-0123,,2025-03-21,New Business,Negotiation,47630.99,0.8,2025-05-02,,CRM Core,Vietnam,Dung Pham,0
+OPP-0243,CUST-0210,,2025-03-29,New Business,Closed Won,102369.19,1.0,2025-07-18,2025-05-26,Sales Analytics,Singapore,An Nguyen,1
+OPP-0244,CUST-0252,LEAD-0537,2024-12-16,New Business,Proposal,74645.26,0.6,2025-02-25,,Sales Analytics,Singapore,Dung Pham,0
+OPP-0245,CUST-0040,,2025-12-16,Expansion,Discovery,64574.57,0.2,2026-01-27,,Sales Analytics,Malaysia,Huy Vo,0
+OPP-0246,CUST-0141,LEAD-0298,2024-08-24,New Business,Closed Won,115357.3,1.0,2024-12-04,2024-11-14,CRM Core,Malaysia,Dung Pham,1
+OPP-0247,CUST-0012,LEAD-0354,2025-01-03,New Business,Proposal,87453.06,0.6,2025-03-13,,Customer Support Suite,Thailand,Binh Tran,0
+OPP-0248,CUST-0179,LEAD-0376,2024-09-23,New Business,Discovery,102730.34,0.2,2024-12-29,,CRM Core,Malaysia,Dung Pham,0
+OPP-0249,CUST-0187,LEAD-0235,2024-04-02,Expansion,Discovery,97010.02,0.2,2024-06-26,,Sales Analytics,Vietnam,An Nguyen,0
+OPP-0250,CUST-0269,,2025-04-08,New Business,Discovery,53435.46,0.2,2025-05-16,,Customer Support Suite,Thailand,Dung Pham,0
+OPP-0251,CUST-0086,LEAD-0238,2024-04-04,Expansion,Proposal,122727.65,0.6,2024-07-22,,Sales Analytics,Indonesia,Chi Le,0
+OPP-0252,CUST-0241,,2024-06-20,New Business,Closed Won,25055.43,1.0,2024-10-04,2024-07-09,CRM Core,Thailand,Binh Tran,1
+OPP-0253,CUST-0092,LEAD-0474,2025-07-20,Expansion,Negotiation,26027.03,0.8,2025-08-27,,CRM Core,Thailand,Dung Pham,0
+OPP-0254,CUST-0088,,2025-06-09,Expansion,Proposal,139868.18,0.6,2025-08-13,,Marketing Automation,Vietnam,Chi Le,0
+OPP-0255,CUST-0241,LEAD-0136,2024-09-04,Renewal,Closed Won,80173.41,1.0,2024-10-24,2024-10-13,Customer Support Suite,Singapore,Dung Pham,1
+OPP-0256,CUST-0057,,2024-06-14,Expansion,Closed Won,12889.16,1.0,2024-08-16,2024-07-02,Sales Analytics,Malaysia,An Nguyen,1
+OPP-0257,CUST-0271,,2025-11-24,Expansion,Proposal,114004.44,0.6,2026-02-14,,Sales Analytics,Indonesia,Linh Vu,0
+OPP-0258,CUST-0296,,2026-02-06,New Business,Demo,112550.67,0.4,2026-03-14,,Marketing Automation,Vietnam,Linh Vu,0
+OPP-0259,CUST-0106,LEAD-0377,2024-11-01,New Business,Closed Lost,47143.53,0.0,2024-12-24,2024-12-04,Sales Analytics,Malaysia,An Nguyen,0
+OPP-0260,CUST-0102,,2024-08-08,New Business,Negotiation,19366.08,0.8,2024-11-06,,Sales Analytics,Malaysia,Chi Le,0
+OPP-0261,CUST-0126,LEAD-0233,2025-03-25,New Business,Proposal,86121.05,0.6,2025-05-26,,Customer Support Suite,Singapore,Dung Pham,0
+OPP-0262,CUST-0213,,2024-09-08,Renewal,Closed Won,127516.73,1.0,2024-10-30,2024-10-11,Sales Analytics,Malaysia,An Nguyen,1
+OPP-0263,CUST-0198,,2025-03-19,New Business,Demo,98889.12,0.4,2025-06-12,,CRM Core,Malaysia,Linh Vu,0
+OPP-0264,CUST-0035,LEAD-0199,2024-11-13,Renewal,Discovery,136927.91,0.2,2024-12-16,,CRM Core,Vietnam,Giang Ho,0
+OPP-0265,CUST-0261,LEAD-0534,2025-01-15,New Business,Proposal,96224.32,0.6,2025-03-29,,Sales Analytics,Thailand,Huy Vo,0
+OPP-0266,CUST-0189,LEAD-0530,2025-08-22,New Business,Proposal,59526.99,0.6,2025-12-12,,CRM Core,Singapore,An Nguyen,0
+OPP-0267,CUST-0194,LEAD-0451,2026-01-19,Expansion,Demo,24415.2,0.4,2026-02-28,,Customer Support Suite,Thailand,Binh Tran,0
+OPP-0268,CUST-0202,LEAD-0046,2024-11-06,New Business,Discovery,51368.35,0.2,2024-12-15,,Marketing Automation,Malaysia,Khanh Do,0
+OPP-0269,CUST-0281,LEAD-0216,2024-01-01,Renewal,Discovery,7383.46,0.2,2024-04-18,,CRM Core,Singapore,Linh Vu,0
+OPP-0270,CUST-0240,,2024-06-18,Renewal,Proposal,13151.87,0.6,2024-08-30,,Sales Analytics,Malaysia,Huy Vo,0
+OPP-0271,CUST-0133,LEAD-0562,2026-04-13,Expansion,Negotiation,52690.17,0.8,2026-05-17,,Marketing Automation,Singapore,Giang Ho,0
+OPP-0272,CUST-0012,LEAD-0279,2024-12-02,Renewal,Demo,134303.69,0.4,2025-02-06,,Sales Analytics,Thailand,An Nguyen,0
+OPP-0273,CUST-0055,,2025-07-22,New Business,Closed Won,105928.05,1.0,2025-09-06,2025-08-30,CRM Core,Philippines,Chi Le,1
+OPP-0274,CUST-0278,LEAD-0423,2026-01-30,New Business,Proposal,37291.97,0.6,2026-03-17,,Customer Support Suite,Philippines,Chi Le,0
+OPP-0275,CUST-0034,,2024-02-28,New Business,Closed Won,20177.42,1.0,2024-05-13,2024-03-12,Sales Analytics,Vietnam,Huy Vo,1
+OPP-0276,CUST-0158,LEAD-0504,2025-02-09,New Business,Proposal,102235.11,0.6,2025-04-01,,Marketing Automation,Thailand,Dung Pham,0
+OPP-0277,CUST-0082,LEAD-0608,2025-01-20,Renewal,Discovery,13469.5,0.2,2025-05-09,,Marketing Automation,Indonesia,An Nguyen,0
+OPP-0278,CUST-0220,LEAD-0095,2026-03-23,Expansion,Negotiation,154747.84,0.8,2026-04-07,,Marketing Automation,Vietnam,Linh Vu,0
+OPP-0279,CUST-0069,LEAD-0376,2025-11-26,Expansion,Closed Won,57402.23,1.0,2026-02-22,2025-12-17,Marketing Automation,Thailand,An Nguyen,1
+OPP-0280,CUST-0170,LEAD-0597,2024-03-25,Renewal,Negotiation,113768.02,0.8,2024-05-03,,Customer Support Suite,Malaysia,Chi Le,0
+OPP-0281,CUST-0056,LEAD-0299,2025-09-22,Expansion,Discovery,96593.85,0.2,2025-10-24,,Customer Support Suite,Indonesia,Binh Tran,0
+OPP-0282,CUST-0134,LEAD-0528,2024-04-08,New Business,Demo,35476.25,0.4,2024-06-12,,Marketing Automation,Philippines,Huy Vo,0
+OPP-0283,CUST-0243,,2025-01-02,Renewal,Demo,90978.51,0.4,2025-05-01,,Customer Support Suite,Singapore,Khanh Do,0
+OPP-0284,CUST-0159,,2024-08-03,New Business,Discovery,20315.85,0.2,2024-08-28,,CRM Core,Singapore,An Nguyen,0
+OPP-0285,CUST-0056,,2024-05-09,New Business,Discovery,92903.27,0.2,2024-08-20,,Marketing Automation,Philippines,Huy Vo,0
+OPP-0286,CUST-0247,LEAD-0126,2025-10-21,Expansion,Negotiation,114486.96,0.8,2025-12-13,,Customer Support Suite,Philippines,Dung Pham,0
+OPP-0287,CUST-0018,LEAD-0401,2024-07-15,New Business,Discovery,101252.32,0.2,2024-11-09,,Customer Support Suite,Singapore,Giang Ho,0
+OPP-0288,CUST-0255,LEAD-0408,2026-03-13,Expansion,Demo,22987.36,0.4,2026-05-08,,Sales Analytics,Indonesia,Khanh Do,0
+OPP-0289,CUST-0095,LEAD-0169,2024-09-13,New Business,Proposal,118627.52,0.6,2024-10-16,,Marketing Automation,Singapore,An Nguyen,0
+OPP-0290,CUST-0263,,2024-10-11,Renewal,Negotiation,59004.99,0.8,2025-02-01,,Sales Analytics,Philippines,An Nguyen,0
+OPP-0291,CUST-0176,,2025-01-16,New Business,Discovery,93045.03,0.2,2025-04-05,,Marketing Automation,Singapore,Dung Pham,0
+OPP-0292,CUST-0171,,2026-01-24,Expansion,Demo,62531.88,0.4,2026-04-16,,Customer Support Suite,Philippines,Dung Pham,0
+OPP-0293,CUST-0021,LEAD-0606,2025-07-14,New Business,Closed Lost,55859.49,0.0,2025-09-03,2025-08-14,Customer Support Suite,Indonesia,An Nguyen,0
+OPP-0294,CUST-0033,LEAD-0428,2025-04-19,Renewal,Negotiation,33639.27,0.8,2025-06-13,,Customer Support Suite,Thailand,Dung Pham,0
+OPP-0295,CUST-0154,,2024-02-09,Expansion,Negotiation,91505.08,0.8,2024-04-14,,CRM Core,Indonesia,Giang Ho,0
+OPP-0296,CUST-0118,LEAD-0461,2024-09-01,New Business,Proposal,115119.22,0.6,2024-12-27,,Customer Support Suite,Vietnam,Giang Ho,0
+OPP-0297,CUST-0257,,2026-01-20,Expansion,Negotiation,49571.71,0.8,2026-04-21,,Customer Support Suite,Indonesia,An Nguyen,0
+OPP-0298,CUST-0110,LEAD-0566,2024-10-21,Expansion,Closed Won,144591.51,1.0,2024-12-24,2024-12-05,Marketing Automation,Indonesia,Huy Vo,1
+OPP-0299,CUST-0103,LEAD-0440,2024-03-22,New Business,Demo,58624.01,0.4,2024-04-18,,Sales Analytics,Singapore,Chi Le,0
+OPP-0300,CUST-0150,,2025-03-01,New Business,Proposal,88041.09,0.6,2025-05-01,,Sales Analytics,Thailand,Binh Tran,0
+OPP-0301,CUST-0278,,2025-10-16,New Business,Closed Lost,105040.1,0.0,2025-10-31,2025-10-27,Sales Analytics,Singapore,Binh Tran,0
+OPP-0302,CUST-0059,,2024-12-11,New Business,Closed Won,93985.43,1.0,2025-02-23,2025-01-05,Sales Analytics,Vietnam,Linh Vu,1
+OPP-0303,CUST-0183,,2024-12-27,New Business,Closed Won,66345.93,1.0,2025-02-12,2025-01-07,CRM Core,Singapore,Binh Tran,1
+OPP-0304,CUST-0075,LEAD-0535,2026-04-14,Expansion,Discovery,154636.82,0.2,2026-08-03,,CRM Core,Thailand,Huy Vo,0
+OPP-0305,CUST-0200,,2025-03-18,New Business,Proposal,97793.51,0.6,2025-04-29,,Marketing Automation,Indonesia,Chi Le,0
+OPP-0306,CUST-0248,,2026-02-04,Expansion,Closed Lost,116829.5,0.0,2026-05-14,2026-04-14,Customer Support Suite,Malaysia,Linh Vu,0
+OPP-0307,CUST-0165,,2024-07-22,Renewal,Discovery,27822.53,0.2,2024-10-18,,CRM Core,Philippines,Huy Vo,0
+OPP-0308,CUST-0191,,2025-03-01,Expansion,Discovery,50947.1,0.2,2025-05-14,,Marketing Automation,Vietnam,Binh Tran,0
+OPP-0309,CUST-0305,LEAD-0120,2025-08-30,New Business,Proposal,119544.01,0.6,2025-12-15,,CRM Core,Indonesia,Huy Vo,0
+OPP-0310,CUST-0017,,2025-10-15,New Business,Demo,99015.42,0.4,2025-12-06,,CRM Core,Vietnam,An Nguyen,0
+OPP-0311,CUST-0154,,2024-05-20,Expansion,Closed Won,155889.67,1.0,2024-07-09,2024-06-20,CRM Core,Indonesia,Khanh Do,1
+OPP-0312,CUST-0187,LEAD-0316,2026-01-26,New Business,Discovery,117787.96,0.2,2026-03-23,,CRM Core,Singapore,Chi Le,0
+OPP-0313,CUST-0269,,2024-04-12,New Business,Discovery,33175.58,0.2,2024-06-08,,CRM Core,Singapore,Huy Vo,0
+OPP-0314,CUST-0296,LEAD-0081,2024-08-25,New Business,Demo,91754.86,0.4,2024-12-14,,Sales Analytics,Indonesia,Binh Tran,0
+OPP-0315,CUST-0153,LEAD-0414,2026-02-09,Renewal,Demo,121439.75,0.4,2026-03-07,,Sales Analytics,Philippines,Huy Vo,0
+OPP-0316,CUST-0027,LEAD-0097,2025-08-25,New Business,Closed Won,7017.93,1.0,2025-12-21,2025-10-20,CRM Core,Thailand,Khanh Do,1
+OPP-0317,CUST-0082,LEAD-0575,2026-03-24,New Business,Demo,23845.25,0.4,2026-06-19,,CRM Core,Malaysia,Binh Tran,0
+OPP-0318,CUST-0112,,2024-05-09,New Business,Closed Lost,103931.38,0.0,2024-07-28,2024-06-18,CRM Core,Philippines,Khanh Do,0
+OPP-0319,CUST-0268,,2025-08-13,Expansion,Closed Won,31370.16,1.0,2025-11-06,2025-09-22,Customer Support Suite,Singapore,An Nguyen,1
+OPP-0320,CUST-0314,,2024-07-16,Expansion,Demo,23494.69,0.4,2024-10-14,,Sales Analytics,Thailand,Khanh Do,0
+OPP-0321,CUST-0128,,2024-05-07,Expansion,Demo,95446.26,0.4,2024-05-22,,Customer Support Suite,Indonesia,Binh Tran,0
+OPP-0322,CUST-0098,,2025-12-08,New Business,Discovery,77616.83,0.2,2026-01-07,,Marketing Automation,Philippines,Dung Pham,0
+OPP-0323,CUST-0021,LEAD-0256,2026-02-01,New Business,Discovery,48576.81,0.2,2026-03-15,,CRM Core,Indonesia,Giang Ho,0
+OPP-0324,CUST-0002,,2026-01-04,New Business,Negotiation,50775.99,0.8,2026-03-03,,Customer Support Suite,Singapore,Dung Pham,0
+OPP-0325,CUST-0076,,2026-03-15,New Business,Demo,117315.5,0.4,2026-05-17,,Customer Support Suite,Philippines,Giang Ho,0
+OPP-0326,CUST-0104,,2024-05-29,New Business,Demo,104654.23,0.4,2024-09-05,,Customer Support Suite,Malaysia,Dung Pham,0
+OPP-0327,CUST-0141,LEAD-0259,2024-01-04,New Business,Discovery,94204.38,0.2,2024-01-26,,Sales Analytics,Singapore,Linh Vu,0
+OPP-0328,CUST-0212,LEAD-0295,2024-05-24,New Business,Discovery,92748.32,0.2,2024-08-07,,Customer Support Suite,Thailand,Binh Tran,0
+OPP-0329,CUST-0156,,2025-04-05,New Business,Closed Won,101057.22,1.0,2025-06-08,2025-05-02,Customer Support Suite,Singapore,Chi Le,1
+OPP-0330,CUST-0225,,2024-01-18,Expansion,Negotiation,61594.83,0.8,2024-04-12,,CRM Core,Thailand,Chi Le,0
+OPP-0331,CUST-0190,LEAD-0102,2024-10-05,Renewal,Proposal,44396.47,0.6,2024-12-10,,CRM Core,Indonesia,An Nguyen,0
+OPP-0332,CUST-0055,LEAD-0290,2024-09-15,Expansion,Closed Won,105139.76,1.0,2024-12-10,2024-12-07,Customer Support Suite,Indonesia,Chi Le,1
+OPP-0333,CUST-0002,LEAD-0021,2024-12-01,Expansion,Closed Won,66985.99,1.0,2025-01-28,2024-12-11,Marketing Automation,Singapore,Linh Vu,1
+OPP-0334,CUST-0056,,2026-01-08,Expansion,Demo,126024.6,0.4,2026-04-08,,Customer Support Suite,Philippines,Dung Pham,0
+OPP-0335,CUST-0309,LEAD-0366,2024-04-08,New Business,Negotiation,107050.33,0.8,2024-06-03,,Sales Analytics,Thailand,An Nguyen,0
+OPP-0336,CUST-0242,,2025-06-29,New Business,Demo,114985.21,0.4,2025-07-16,,CRM Core,Indonesia,Binh Tran,0
+OPP-0337,CUST-0071,LEAD-0045,2024-07-28,New Business,Proposal,89156.61,0.6,2024-08-25,,Marketing Automation,Singapore,Linh Vu,0
+OPP-0338,CUST-0110,LEAD-0100,2024-02-07,New Business,Closed Lost,50278.31,0.0,2024-03-28,2024-03-25,Marketing Automation,Vietnam,Linh Vu,0
+OPP-0339,CUST-0175,,2025-09-18,New Business,Closed Won,95349.75,1.0,2025-12-10,2025-10-28,Customer Support Suite,Philippines,An Nguyen,1
+OPP-0340,CUST-0142,LEAD-0007,2025-05-16,Expansion,Demo,65771.5,0.4,2025-07-12,,CRM Core,Indonesia,Binh Tran,0
+OPP-0341,CUST-0299,LEAD-0590,2024-10-11,New Business,Negotiation,112289.27,0.8,2025-01-30,,Marketing Automation,Vietnam,Linh Vu,0
+OPP-0342,CUST-0050,,2025-08-08,New Business,Demo,22304.05,0.4,2025-09-12,,CRM Core,Philippines,Dung Pham,0
+OPP-0343,CUST-0092,LEAD-0215,2024-07-21,New Business,Proposal,80076.03,0.6,2024-09-02,,CRM Core,Vietnam,Chi Le,0
+OPP-0344,CUST-0105,LEAD-0307,2025-12-04,New Business,Negotiation,100367.12,0.8,2026-01-08,,Customer Support Suite,Vietnam,Linh Vu,0
+OPP-0345,CUST-0088,LEAD-0546,2024-06-28,Expansion,Closed Won,19247.65,1.0,2024-10-18,2024-07-28,CRM Core,Singapore,Dung Pham,1
+OPP-0346,CUST-0213,LEAD-0235,2025-12-17,Expansion,Demo,82408.17,0.4,2026-03-13,,Customer Support Suite,Singapore,Huy Vo,0
+OPP-0347,CUST-0305,LEAD-0581,2024-08-08,Renewal,Proposal,85205.75,0.6,2024-12-02,,Sales Analytics,Thailand,Linh Vu,0
+OPP-0348,CUST-0134,,2026-01-21,Expansion,Closed Won,32707.76,1.0,2026-03-14,2026-02-24,CRM Core,Indonesia,Linh Vu,1
+OPP-0349,CUST-0060,,2024-05-09,Renewal,Demo,97326.58,0.4,2024-06-07,,Customer Support Suite,Philippines,Linh Vu,0
+OPP-0350,CUST-0298,,2024-05-18,New Business,Discovery,105344.29,0.2,2024-09-12,,Marketing Automation,Vietnam,Chi Le,0
+OPP-0351,CUST-0261,,2025-07-10,Renewal,Demo,77244.03,0.4,2025-09-06,,Sales Analytics,Thailand,Binh Tran,0
+OPP-0352,CUST-0171,LEAD-0183,2024-02-15,New Business,Closed Won,26225.44,1.0,2024-06-11,2024-06-05,CRM Core,Indonesia,Dung Pham,1
+OPP-0353,CUST-0076,,2024-03-14,New Business,Negotiation,11458.51,0.8,2024-07-04,,Customer Support Suite,Singapore,Huy Vo,0
+OPP-0354,CUST-0142,,2024-12-11,New Business,Closed Won,94045.61,1.0,2025-04-04,2025-03-16,CRM Core,Vietnam,An Nguyen,1
+OPP-0355,CUST-0166,LEAD-0600,2024-03-24,New Business,Discovery,114464.46,0.2,2024-04-20,,Sales Analytics,Vietnam,Linh Vu,0
+OPP-0356,CUST-0310,LEAD-0154,2024-12-27,New Business,Negotiation,95773.37,0.8,2025-03-16,,Sales Analytics,Thailand,Giang Ho,0
+OPP-0357,CUST-0082,LEAD-0152,2025-09-06,Expansion,Proposal,46654.0,0.6,2025-11-26,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0358,CUST-0148,LEAD-0044,2024-11-17,New Business,Discovery,53293.41,0.2,2024-12-05,,CRM Core,Vietnam,An Nguyen,0
+OPP-0359,CUST-0134,,2025-01-21,New Business,Demo,44653.08,0.4,2025-04-12,,Marketing Automation,Malaysia,Giang Ho,0
+OPP-0360,CUST-0194,LEAD-0242,2025-02-26,New Business,Demo,28885.68,0.4,2025-04-23,,CRM Core,Thailand,Huy Vo,0
+OPP-0361,CUST-0159,,2026-03-14,New Business,Negotiation,67200.11,0.8,2026-04-03,,CRM Core,Malaysia,Linh Vu,0
+OPP-0362,CUST-0107,LEAD-0617,2025-09-20,New Business,Negotiation,94809.74,0.8,2025-10-07,,Marketing Automation,Vietnam,Chi Le,0
+OPP-0363,CUST-0032,LEAD-0049,2024-05-05,Renewal,Demo,74027.74,0.4,2024-07-30,,Sales Analytics,Philippines,An Nguyen,0
+OPP-0364,CUST-0133,,2025-10-21,New Business,Closed Lost,60816.77,0.0,2025-12-06,2025-12-03,Customer Support Suite,Philippines,Dung Pham,0
+OPP-0365,,,2025-06-25,Expansion,Proposal,39757.65,0.6,2025-10-04,,Marketing Automation,Philippines,Binh Tran,0
+OPP-0366,,LEAD-0303,2026-01-13,New Business,Proposal,81000.43,0.6,2026-05-01,,Customer Support Suite,Thailand,Giang Ho,0
+OPP-0367,,LEAD-0249,2025-03-05,Expansion,Discovery,113393.07,0.2,2025-05-26,,Marketing Automation,Vietnam,Khanh Do,0
+OPP-0368,,LEAD-0258,2024-03-25,New Business,Discovery,48041.72,0.2,2024-06-28,,Marketing Automation,Thailand,Khanh Do,0
+OPP-0369,,,2025-01-17,Expansion,Closed Won,9091.76,1.0,2025-03-24,2025-03-18,Sales Analytics,Thailand,Dung Pham,1
+OPP-0370,,LEAD-0192,2024-10-27,New Business,Closed Won,88051.06,1.0,2025-02-04,2024-11-16,Customer Support Suite,Thailand,Linh Vu,1
+OPP-0371,,LEAD-0287,2024-10-24,New Business,Closed Lost,64581.88,0.0,2024-11-10,2024-11-06,Sales Analytics,Singapore,Binh Tran,0
+OPP-0372,,LEAD-0513,2025-06-15,New Business,Closed Lost,41123.05,0.0,2025-07-17,2025-07-09,Sales Analytics,Vietnam,An Nguyen,0
+OPP-0373,,LEAD-0059,2024-10-25,New Business,Closed Lost,26654.59,0.0,2025-02-14,2024-12-19,Sales Analytics,Indonesia,Dung Pham,0
+OPP-0374,,LEAD-0126,2025-02-08,Expansion,Closed Won,126232.42,1.0,2025-03-06,2025-02-21,Customer Support Suite,Philippines,Linh Vu,1
+OPP-0375,,,2024-05-06,New Business,Negotiation,25437.03,0.8,2024-08-04,,Marketing Automation,Malaysia,Binh Tran,0
+OPP-0376,,LEAD-0415,2025-10-21,New Business,Demo,106121.17,0.4,2025-11-09,,CRM Core,Indonesia,Binh Tran,0
+OPP-0377,,,2025-05-23,Expansion,Demo,62324.86,0.4,2025-08-05,,CRM Core,Vietnam,Khanh Do,0
+OPP-0378,,,2024-08-01,Expansion,Closed Lost,7109.69,0.0,2024-08-29,2024-08-21,CRM Core,Indonesia,Khanh Do,0
+OPP-0379,,LEAD-0612,2025-06-20,Renewal,Demo,53498.41,0.4,2025-09-03,,Sales Analytics,Philippines,Linh Vu,0
+OPP-0380,,LEAD-0611,2024-05-02,Renewal,Closed Lost,126692.41,0.0,2024-08-04,2024-06-08,Sales Analytics,Indonesia,Khanh Do,0
+OPP-0381,,,2024-05-17,Renewal,Discovery,84220.92,0.2,2024-09-12,,Sales Analytics,Vietnam,Binh Tran,0
+OPP-0382,,LEAD-0232,2024-08-24,New Business,Proposal,100891.7,0.6,2024-11-22,,Customer Support Suite,Singapore,Chi Le,0
+OPP-0383,,LEAD-0162,2024-08-08,New Business,Proposal,10673.18,0.6,2024-10-19,,Sales Analytics,Thailand,Giang Ho,0
+OPP-0384,,LEAD-0095,2024-09-18,Renewal,Negotiation,118632.53,0.8,2024-11-09,,Customer Support Suite,Philippines,Chi Le,0
+OPP-0385,,LEAD-0376,2025-10-07,New Business,Closed Won,30042.54,1.0,2025-12-11,2025-11-13,CRM Core,Indonesia,Khanh Do,1
+OPP-0386,,,2024-04-29,Expansion,Proposal,132458.77,0.6,2024-05-19,,CRM Core,Indonesia,Dung Pham,0
+OPP-0387,,,2025-01-04,New Business,Closed Won,12428.81,1.0,2025-04-26,2025-01-17,Marketing Automation,Philippines,Khanh Do,1
+OPP-0388,,LEAD-0329,2026-02-02,New Business,Closed Lost,92576.17,0.0,2026-03-21,2026-03-05,CRM Core,Malaysia,Huy Vo,0
+OPP-0389,,LEAD-0188,2025-03-22,New Business,Proposal,101996.94,0.6,2025-05-30,,Marketing Automation,Indonesia,Chi Le,0
+OPP-0390,,,2024-10-24,Expansion,Discovery,39738.16,0.2,2025-01-17,,Customer Support Suite,Singapore,An Nguyen,0
+OPP-0391,,LEAD-0244,2025-05-03,Renewal,Closed Lost,102264.51,0.0,2025-07-24,2025-05-30,CRM Core,Singapore,Khanh Do,0
+OPP-0392,,LEAD-0384,2025-09-21,Expansion,Discovery,104921.75,0.2,2025-12-02,,CRM Core,Indonesia,An Nguyen,0
+OPP-0393,,LEAD-0579,2025-08-17,Expansion,Closed Won,46436.26,1.0,2025-09-24,2025-08-27,Sales Analytics,Indonesia,Linh Vu,1
+OPP-0394,,,2025-02-16,Expansion,Negotiation,98287.17,0.8,2025-05-22,,Customer Support Suite,Philippines,Khanh Do,0
+OPP-0395,,LEAD-0566,2025-10-19,New Business,Negotiation,88111.46,0.8,2026-01-28,,CRM Core,Indonesia,Linh Vu,0
+OPP-0396,,LEAD-0549,2026-03-13,New Business,Proposal,114328.35,0.6,2026-04-28,,Sales Analytics,Indonesia,Chi Le,0
+OPP-0397,,LEAD-0022,2026-03-01,New Business,Demo,75016.47,0.4,2026-04-09,,Marketing Automation,Vietnam,Chi Le,0
+OPP-0398,,LEAD-0229,2024-10-28,Expansion,Closed Won,68542.76,1.0,2025-01-23,2025-01-17,Customer Support Suite,Indonesia,An Nguyen,1
+OPP-0399,,,2025-07-25,New Business,Proposal,15890.57,0.6,2025-11-14,,CRM Core,Philippines,Khanh Do,0
+OPP-0400,,LEAD-0222,2024-11-12,New Business,Closed Lost,28917.02,0.0,2025-02-12,2024-12-20,Sales Analytics,Philippines,Huy Vo,0
+OPP-0401,,LEAD-0533,2024-05-21,Expansion,Proposal,5284.39,0.6,2024-09-17,,CRM Core,Thailand,Giang Ho,0
+OPP-0402,,,2025-11-10,New Business,Discovery,84026.88,0.2,2026-02-11,,Sales Analytics,Vietnam,Khanh Do,0
+OPP-0403,,LEAD-0151,2025-02-19,New Business,Demo,81833.39,0.4,2025-04-30,,CRM Core,Indonesia,Giang Ho,0
+OPP-0404,,LEAD-0388,2024-12-18,New Business,Discovery,99847.33,0.2,2025-01-03,,Customer Support Suite,Vietnam,Linh Vu,0
+OPP-0405,,,2025-12-03,Renewal,Closed Won,111841.45,1.0,2026-01-27,2026-01-18,CRM Core,Thailand,Huy Vo,1
+OPP-0406,,,2026-03-06,New Business,Proposal,30390.89,0.6,2026-06-30,,Sales Analytics,Philippines,Giang Ho,0
+OPP-0407,,,2024-01-31,Expansion,Discovery,118007.86,0.2,2024-02-15,,Customer Support Suite,Indonesia,An Nguyen,0
+OPP-0408,,LEAD-0399,2024-03-05,Renewal,Discovery,135238.58,0.2,2024-05-08,,CRM Core,Vietnam,Dung Pham,0
+OPP-0409,,,2026-04-13,New Business,Closed Won,99152.32,1.0,2026-05-01,2026-04-23,CRM Core,Malaysia,An Nguyen,1
+OPP-0410,,LEAD-0627,2025-10-25,New Business,Demo,73570.97,0.4,2026-02-11,,CRM Core,Malaysia,Huy Vo,0
+OPP-0411,,LEAD-0182,2025-10-06,New Business,Closed Won,114032.0,1.0,2026-01-11,2025-12-07,CRM Core,Philippines,Chi Le,1
+OPP-0412,,LEAD-0287,2024-10-03,New Business,Proposal,54238.0,0.6,2024-11-23,,Marketing Automation,Vietnam,Khanh Do,0
+OPP-0413,,,2025-04-04,Renewal,Negotiation,105834.53,0.8,2025-06-10,,Marketing Automation,Thailand,Chi Le,0
+OPP-0414,,LEAD-0095,2026-02-02,Renewal,Negotiation,114389.02,0.8,2026-04-07,,Marketing Automation,Indonesia,An Nguyen,0
+OPP-0415,,,2025-09-08,New Business,Closed Won,4682.74,1.0,2025-11-29,2025-11-25,CRM Core,Singapore,Giang Ho,1
+OPP-0416,,LEAD-0465,2024-08-25,New Business,Discovery,111903.62,0.2,2024-10-24,,Marketing Automation,Thailand,Chi Le,0
+OPP-0417,,,2025-02-14,New Business,Proposal,11339.8,0.6,2025-03-02,,Marketing Automation,Philippines,Dung Pham,0
+OPP-0418,,LEAD-0618,2024-06-16,New Business,Discovery,90539.85,0.2,2024-07-31,,Marketing Automation,Malaysia,Huy Vo,0
+OPP-0419,,LEAD-0588,2024-12-19,New Business,Discovery,54803.74,0.2,2025-03-29,,Sales Analytics,Thailand,Giang Ho,0
+OPP-0420,,LEAD-0173,2025-08-15,New Business,Discovery,48679.45,0.2,2025-11-03,,CRM Core,Malaysia,An Nguyen,0
+OPP-0421,,LEAD-0055,2024-08-30,New Business,Negotiation,100176.05,0.8,2024-11-03,,CRM Core,Singapore,Linh Vu,0
+OPP-0422,,,2026-01-28,Expansion,Negotiation,28726.81,0.8,2026-03-07,,CRM Core,Singapore,Binh Tran,0
+OPP-0423,,,2025-05-18,Renewal,Negotiation,114567.7,0.8,2025-06-15,,Sales Analytics,Indonesia,Dung Pham,0
+OPP-0424,,,2025-03-05,New Business,Proposal,88676.66,0.6,2025-05-21,,Marketing Automation,Malaysia,Linh Vu,0
+OPP-0425,,,2024-08-25,Renewal,Proposal,121260.46,0.6,2024-11-13,,Sales Analytics,Malaysia,Chi Le,0
+OPP-0426,,LEAD-0235,2025-08-09,Expansion,Closed Lost,6115.73,0.0,2025-12-02,2025-11-16,Customer Support Suite,Philippines,Khanh Do,0
+OPP-0427,,,2024-05-01,New Business,Negotiation,49513.8,0.8,2024-07-18,,Customer Support Suite,Indonesia,Dung Pham,0
+OPP-0428,,,2024-05-30,Renewal,Discovery,106047.54,0.2,2024-08-01,,CRM Core,Philippines,Chi Le,0
+OPP-0429,,,2024-07-03,New Business,Demo,81518.2,0.4,2024-07-29,,Sales Analytics,Vietnam,Khanh Do,0
+OPP-0430,,,2025-07-06,Renewal,Closed Lost,95491.63,0.0,2025-09-10,2025-08-21,CRM Core,Indonesia,Chi Le,0
+OPP-0431,,,2024-06-27,New Business,Proposal,40632.32,0.6,2024-08-31,,CRM Core,Indonesia,Linh Vu,0
+OPP-0432,,LEAD-0275,2024-08-28,New Business,Negotiation,36078.88,0.8,2024-11-20,,Marketing Automation,Singapore,An Nguyen,0
+OPP-0433,,,2024-02-08,Renewal,Closed Won,131404.98,1.0,2024-05-21,2024-05-21,Customer Support Suite,Philippines,Dung Pham,1
+OPP-0434,,LEAD-0257,2025-06-03,Renewal,Negotiation,42757.23,0.8,2025-09-03,,CRM Core,Philippines,Huy Vo,0
+OPP-0435,,LEAD-0356,2025-04-07,Expansion,Proposal,150236.76,0.6,2025-07-27,,Customer Support Suite,Vietnam,An Nguyen,0
+OPP-0436,,LEAD-0184,2024-08-28,Renewal,Proposal,55290.33,0.6,2024-10-07,,CRM Core,Indonesia,Chi Le,0
+OPP-0437,,LEAD-0390,2026-03-09,New Business,Negotiation,86890.23,0.8,2026-06-16,,Customer Support Suite,Indonesia,Linh Vu,0
+OPP-0438,,LEAD-0394,2025-07-08,New Business,Negotiation,110007.56,0.8,2025-09-25,,Marketing Automation,Singapore,Linh Vu,0
+OPP-0439,,LEAD-0591,2024-07-19,New Business,Closed Won,95282.31,1.0,2024-10-10,2024-09-07,Customer Support Suite,Philippines,An Nguyen,1
+OPP-0440,,LEAD-0641,2026-03-22,New Business,Discovery,33780.61,0.2,2026-04-09,,Customer Support Suite,Malaysia,Huy Vo,0
+OPP-0441,,,2024-12-05,Expansion,Proposal,7299.28,0.6,2025-01-04,,Sales Analytics,Indonesia,Chi Le,0
+OPP-0442,,LEAD-0351,2025-01-18,New Business,Discovery,63783.02,0.2,2025-04-01,,Marketing Automation,Singapore,Khanh Do,0
+OPP-0443,,LEAD-0627,2024-10-28,New Business,Demo,114293.5,0.4,2025-02-07,,Customer Support Suite,Singapore,Giang Ho,0
+OPP-0444,,,2024-07-18,New Business,Closed Lost,69566.15,0.0,2024-08-15,2024-08-07,Marketing Automation,Thailand,Khanh Do,0
+OPP-0445,,LEAD-0336,2024-07-10,New Business,Demo,118746.97,0.4,2024-09-24,,Sales Analytics,Malaysia,Chi Le,0
+OPP-0446,,LEAD-0590,2024-06-24,New Business,Negotiation,104463.45,0.8,2024-08-06,,Sales Analytics,Vietnam,Huy Vo,0
+OPP-0447,,LEAD-0517,2024-04-18,New Business,Proposal,45164.9,0.6,2024-07-24,,Sales Analytics,Malaysia,Linh Vu,0
+OPP-0448,,,2025-07-26,New Business,Negotiation,91206.57,0.8,2025-11-16,,Sales Analytics,Singapore,Giang Ho,0
+OPP-0449,,LEAD-0314,2025-10-05,Expansion,Closed Won,139719.22,1.0,2026-02-02,2025-12-27,CRM Core,Malaysia,Binh Tran,1
+OPP-0450,,LEAD-0169,2024-02-18,New Business,Closed Won,41366.59,1.0,2024-04-03,2024-03-16,CRM Core,Thailand,An Nguyen,1
+OPP-0451,,LEAD-0315,2024-03-31,New Business,Proposal,40558.6,0.6,2024-05-26,,CRM Core,Singapore,Dung Pham,0
+OPP-0452,,,2025-01-09,New Business,Demo,51499.08,0.4,2025-04-27,,Marketing Automation,Malaysia,Binh Tran,0
+OPP-0453,,LEAD-0325,2024-02-16,New Business,Negotiation,114422.21,0.8,2024-03-21,,Sales Analytics,Vietnam,Binh Tran,0
+OPP-0454,,LEAD-0363,2024-06-30,New Business,Negotiation,113861.07,0.8,2024-07-30,,CRM Core,Indonesia,Linh Vu,0
+OPP-0455,,,2024-05-14,Expansion,Discovery,57975.34,0.2,2024-06-28,,Customer Support Suite,Singapore,Huy Vo,0
+OPP-0456,,,2024-12-04,New Business,Closed Lost,93551.38,0.0,2025-02-10,2024-12-17,Customer Support Suite,Malaysia,Huy Vo,0
+OPP-0457,,LEAD-0287,2024-11-01,Renewal,Discovery,98117.99,0.2,2025-01-20,,Sales Analytics,Indonesia,Huy Vo,0
+OPP-0458,,,2026-01-20,New Business,Closed Lost,95999.09,0.0,2026-03-16,2026-03-16,Marketing Automation,Indonesia,Giang Ho,0
+OPP-0459,,LEAD-0630,2024-05-01,Renewal,Closed Won,60394.16,1.0,2024-06-27,2024-05-12,CRM Core,Vietnam,Chi Le,1
+OPP-0460,,LEAD-0315,2025-01-16,Expansion,Negotiation,137347.75,0.8,2025-02-09,,Marketing Automation,Philippines,Dung Pham,0
+OPP-0461,,,2024-04-28,Expansion,Closed Won,13221.81,1.0,2024-05-13,2024-05-10,Customer Support Suite,Vietnam,Huy Vo,1
+OPP-0462,,LEAD-0649,2025-10-10,New Business,Negotiation,82475.4,0.8,2025-11-30,,Sales Analytics,Indonesia,Giang Ho,0
+OPP-0463,,LEAD-0393,2025-01-30,New Business,Closed Lost,59894.27,0.0,2025-04-18,2025-03-09,Customer Support Suite,Philippines,Khanh Do,0
+OPP-0464,,,2026-01-06,Renewal,Negotiation,22614.93,0.8,2026-01-21,,Sales Analytics,Indonesia,Chi Le,0
+OPP-0465,,,2025-12-21,New Business,Demo,26679.8,0.4,2026-01-13,,Marketing Automation,Philippines,Dung Pham,0
+OPP-0466,,LEAD-0109,2026-01-24,New Business,Closed Won,16902.86,1.0,2026-04-26,2026-02-21,Sales Analytics,Indonesia,An Nguyen,1
+OPP-0467,,LEAD-0387,2026-01-26,New Business,Discovery,30880.32,0.2,2026-03-15,,Marketing Automation,Singapore,Linh Vu,0
+OPP-0468,,,2025-04-19,New Business,Proposal,92498.33,0.6,2025-06-24,,Customer Support Suite,Singapore,Binh Tran,0
+OPP-0469,,,2024-12-24,New Business,Demo,90125.54,0.4,2025-02-23,,Customer Support Suite,Singapore,Giang Ho,0
+OPP-0470,,LEAD-0585,2024-02-03,New Business,Negotiation,62289.52,0.8,2024-05-27,,Customer Support Suite,Philippines,Linh Vu,0
+OPP-0471,,LEAD-0105,2025-02-05,New Business,Closed Won,86758.11,1.0,2025-03-07,2025-03-07,Marketing Automation,Vietnam,Linh Vu,1
+OPP-0472,,LEAD-0221,2024-07-22,New Business,Negotiation,27637.85,0.8,2024-10-17,,CRM Core,Thailand,Chi Le,0
+OPP-0473,,LEAD-0159,2025-08-13,Renewal,Closed Lost,31353.17,0.0,2025-10-19,2025-10-18,CRM Core,Philippines,Chi Le,0
+OPP-0474,,LEAD-0335,2025-11-04,Renewal,Discovery,43444.04,0.2,2026-01-28,,Marketing Automation,Singapore,Chi Le,0
+OPP-0475,,LEAD-0373,2025-12-20,Renewal,Closed Won,118418.35,1.0,2026-03-14,2026-01-25,Sales Analytics,Thailand,Huy Vo,1
+OPP-0476,,LEAD-0501,2026-01-12,Expansion,Negotiation,137976.47,0.8,2026-02-24,,Customer Support Suite,Thailand,Chi Le,0
+OPP-0477,,LEAD-0021,2025-08-07,New Business,Closed Won,70157.85,1.0,2025-11-29,2025-10-19,Marketing Automation,Malaysia,Binh Tran,1
+OPP-0478,,,2025-08-19,New Business,Discovery,22571.01,0.2,2025-09-11,,CRM Core,Thailand,Chi Le,0
+OPP-0479,,LEAD-0611,2025-04-24,Expansion,Closed Lost,112858.49,0.0,2025-06-05,2025-06-04,Marketing Automation,Indonesia,Huy Vo,0
+OPP-0480,,,2025-06-15,New Business,Discovery,97853.85,0.2,2025-10-04,,Marketing Automation,Thailand,Binh Tran,0
+OPP-0481,,LEAD-0056,2025-07-15,New Business,Discovery,7246.94,0.2,2025-11-04,,Customer Support Suite,Indonesia,Linh Vu,0
+OPP-0482,,LEAD-0583,2025-03-24,New Business,Demo,89317.77,0.4,2025-07-07,,Sales Analytics,Singapore,Huy Vo,0
+OPP-0483,,LEAD-0548,2025-02-07,Renewal,Closed Won,127489.68,1.0,2025-06-03,2025-06-01,Marketing Automation,Vietnam,An Nguyen,1
+OPP-0484,,LEAD-0310,2024-08-29,Renewal,Negotiation,112851.09,0.8,2024-12-23,,CRM Core,Malaysia,Huy Vo,0
+OPP-0485,,LEAD-0167,2024-08-03,Renewal,Proposal,128302.52,0.6,2024-08-29,,Marketing Automation,Philippines,An Nguyen,0
+OPP-0486,,LEAD-0601,2026-02-06,New Business,Discovery,37729.3,0.2,2026-04-23,,Marketing Automation,Vietnam,Giang Ho,0
+OPP-0487,,,2024-07-20,Renewal,Proposal,136938.61,0.6,2024-08-14,,Customer Support Suite,Vietnam,Dung Pham,0
+OPP-0488,,,2024-04-27,New Business,Discovery,19809.94,0.2,2024-05-31,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0489,,LEAD-0472,2025-02-23,New Business,Negotiation,8313.41,0.8,2025-05-26,,CRM Core,Vietnam,Binh Tran,0
+OPP-0490,,LEAD-0108,2024-05-12,Renewal,Discovery,86095.83,0.2,2024-05-31,,Marketing Automation,Philippines,Linh Vu,0
+OPP-0491,,LEAD-0542,2026-02-17,New Business,Demo,111206.99,0.4,2026-06-07,,CRM Core,Thailand,Dung Pham,0
+OPP-0492,,LEAD-0442,2025-01-24,New Business,Proposal,79919.79,0.6,2025-04-07,,CRM Core,Singapore,Giang Ho,0
+OPP-0493,,,2024-10-15,New Business,Discovery,4679.71,0.2,2025-01-09,,Marketing Automation,Thailand,Khanh Do,0
+OPP-0494,,,2025-08-13,Expansion,Closed Lost,25629.65,0.0,2025-10-03,2025-09-16,CRM Core,Indonesia,Chi Le,0
+OPP-0495,,LEAD-0376,2024-12-24,Expansion,Closed Won,12727.1,1.0,2025-04-12,2025-04-07,Marketing Automation,Philippines,An Nguyen,1
+OPP-0496,,,2025-09-02,New Business,Closed Won,70848.15,1.0,2025-12-31,2025-09-14,Marketing Automation,Malaysia,Binh Tran,1
+OPP-0497,,LEAD-0283,2024-07-14,New Business,Demo,40543.4,0.4,2024-09-13,,Sales Analytics,Singapore,Khanh Do,0
+OPP-0498,,LEAD-0028,2024-09-22,Renewal,Closed Won,107945.31,1.0,2024-10-10,2024-10-04,CRM Core,Malaysia,Linh Vu,1
+OPP-0499,,LEAD-0629,2024-06-14,New Business,Proposal,34795.83,0.6,2024-07-20,,Customer Support Suite,Philippines,An Nguyen,0
+OPP-0500,,,2024-03-28,New Business,Closed Won,4640.89,1.0,2024-05-11,2024-04-15,Sales Analytics,Indonesia,Chi Le,1
+OPP-0501,,,2024-04-19,New Business,Demo,103958.51,0.4,2024-08-17,,Marketing Automation,Philippines,An Nguyen,0
+OPP-0502,,,2024-10-19,New Business,Discovery,3989.5,0.2,2024-12-19,,Customer Support Suite,Indonesia,Khanh Do,0
+OPP-0503,,,2025-10-17,New Business,Proposal,94847.07,0.6,2026-01-19,,Sales Analytics,Malaysia,Binh Tran,0
+OPP-0504,,LEAD-0357,2025-01-15,New Business,Closed Won,113600.88,1.0,2025-03-03,2025-02-24,Marketing Automation,Thailand,Binh Tran,1
+OPP-0505,,LEAD-0003,2024-04-23,New Business,Discovery,15984.13,0.2,2024-08-16,,CRM Core,Singapore,Binh Tran,0
+OPP-0506,,LEAD-0423,2025-07-21,New Business,Proposal,34588.06,0.6,2025-08-16,,Marketing Automation,Malaysia,Linh Vu,0
+OPP-0507,,LEAD-0558,2024-01-14,New Business,Closed Won,81082.95,1.0,2024-03-26,2024-01-30,CRM Core,Philippines,Chi Le,1
+OPP-0508,,LEAD-0351,2025-12-22,New Business,Discovery,61986.84,0.2,2026-02-27,,CRM Core,Singapore,Linh Vu,0
+OPP-0509,,LEAD-0235,2024-12-06,New Business,Discovery,104687.04,0.2,2025-02-05,,Customer Support Suite,Thailand,Giang Ho,0
+OPP-0510,,LEAD-0411,2024-06-28,New Business,Discovery,4056.69,0.2,2024-09-06,,Sales Analytics,Indonesia,Chi Le,0
+OPP-0511,,,2025-11-23,New Business,Proposal,52679.22,0.6,2026-01-09,,CRM Core,Singapore,Linh Vu,0
+OPP-0512,,LEAD-0006,2024-12-07,New Business,Negotiation,104915.84,0.8,2025-01-16,,Marketing Automation,Malaysia,Khanh Do,0
+OPP-0513,,,2025-03-23,Renewal,Proposal,22507.57,0.6,2025-05-22,,Marketing Automation,Singapore,Binh Tran,0
+OPP-0514,,,2025-05-01,New Business,Discovery,33388.52,0.2,2025-07-08,,CRM Core,Thailand,Khanh Do,0
+OPP-0515,,,2025-10-03,New Business,Closed Won,95822.2,1.0,2025-10-24,2025-10-20,Customer Support Suite,Vietnam,Linh Vu,1
+OPP-0516,,,2024-02-08,New Business,Negotiation,71096.62,0.8,2024-05-02,,Sales Analytics,Indonesia,Binh Tran,0
+OPP-0517,,LEAD-0256,2025-11-14,Renewal,Discovery,108750.91,0.2,2025-12-04,,CRM Core,Indonesia,Giang Ho,0
+OPP-0518,,LEAD-0613,2025-05-23,Renewal,Proposal,84549.01,0.6,2025-08-09,,CRM Core,Singapore,Dung Pham,0
+OPP-0519,,LEAD-0450,2025-12-02,New Business,Proposal,73152.46,0.6,2026-03-22,,CRM Core,Malaysia,Giang Ho,0
+OPP-0520,,,2024-04-11,New Business,Proposal,114400.47,0.6,2024-06-27,,Sales Analytics,Singapore,Linh Vu,0

@@ -1,0 +1,6 @@
+note
+"Join customers.customer_id to opportunities.customer_id, activities.customer_id, support_tickets.customer_id"
+Join leads.lead_id to opportunities.lead_id and activities.lead_id
+Date fields use ISO format YYYY-MM-DD
+Currency fields are in USD
+"Suggested charts: lead funnel, pipeline by stage, MRR by country, customer health, CSAT & resolution time"
